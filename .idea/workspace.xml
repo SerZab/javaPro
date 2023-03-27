@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="334a97ca-3969-441a-81de-86d7ab75d518" name="Changes" comment="" />
+    <list default="true" id="334a97ca-3969-441a-81de-86d7ab75d518" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homeWork/extra/youtube/ticTacToe/TicTacToe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeWork/extra/youtube/ticTacToe/TicTacToe.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -148,7 +151,8 @@
       <workItem from="1679670806317" duration="185000" />
       <workItem from="1679857335666" duration="2922000" />
       <workItem from="1679861077694" duration="191000" />
-      <workItem from="1679899495770" duration="25199000" />
+      <workItem from="1679899495770" duration="25576000" />
+      <workItem from="1679937732385" duration="325000" />
     </task>
     <servers />
   </component>

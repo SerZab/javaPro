@@ -19,10 +19,10 @@ public class TicTacToe {
 
         while (true){
             Scanner scanner = new Scanner(System.in);
-            System.out.println("Enter your placement (1 - 9): ");
+            System.out.println("Выберите поле от 1 до 9: ");
             int playerPosition = scanner.nextInt();
             while (playerPositions.contains(playerPosition) || cpuPositions.contains(playerPosition)){
-                System.out.println("position taken! Enter a correct Position");
+                System.out.println("Поле занято! Выберите другое");
                 playerPosition = scanner.nextInt();
             }
 
@@ -119,11 +119,11 @@ public class TicTacToe {
         winning.add(cross2);
         for(List list : winning){
             if (playerPositions.containsAll(list)){
-                return "Congratulations, you won!";
+                return "Поздравляю, вы выиграли!";
             }else if (cpuPositions.containsAll(list)) {
-                return "Computer wins! Sorry :(";
-            }else if (playerPositions.size() + cpuPositions.size() >= 9){
-                return "In a draw!";
+                return "Выиграл компьютер! :(\nВам повезет в следующий раз!";
+            }else if (playerPositions.size() + cpuPositions.size() == 9){
+                return "Ничья!";
             }
         }
         return "";
