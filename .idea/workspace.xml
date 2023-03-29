@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="334a97ca-3969-441a-81de-86d7ab75d518" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homeWork/extra/youtube/ticTacToe/TicTacToe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeWork/extra/youtube/ticTacToe/TicTacToe.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +15,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -60,13 +60,13 @@
       <recent name="practiceJava.lesson08_24032023" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TicTacToe">
-    <configuration name="COLL" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practiceMihail.lesson03_15032023.lists.COLL" />
+  <component name="RunManager" selected="Application.CollectionsEx">
+    <configuration name="AnimalDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lessons.lesson07_29032023.AnimalDemo" />
       <module name="JavaPRO" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="practiceMihail.lesson03_15032023.lists.*" />
+          <option name="PATTERN" value="lessons.lesson07_29032023.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -74,12 +74,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practiceMihail.lesson06_27032023.Palindrome" />
+    <configuration name="CollectionsEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practiceMihail.lesson07_29032023.CollectionsEx" />
       <module name="JavaPRO" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="practiceMihail.lesson06_27032023.*" />
+          <option name="PATTERN" value="practiceMihail.lesson07_29032023.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,12 +87,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practiceMihail.lesson03_15032023.Test" />
+    <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practiceMihail.lesson07_29032023.Test1" />
       <module name="JavaPRO" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="practiceMihail.lesson03_15032023.*" />
+          <option name="PATTERN" value="practiceMihail.lesson07_29032023.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,12 +100,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TicTacToe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homeWork.extra.youtube.ticTacToe.TicTacToe" />
+    <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practiceMihail.lesson07_29032023.Test2" />
       <module name="JavaPRO" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homeWork.extra.youtube.ticTacToe.*" />
+          <option name="PATTERN" value="practiceMihail.lesson07_29032023.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,12 +113,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="iteratorDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practiceMihail.lesson06_27032023.iteratorDemo" />
+    <configuration name="practiceMihail.lesson07_29032023.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practiceMihail.lesson07_29032023.Main" />
       <module name="JavaPRO" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="practiceMihail.lesson06_27032023.*" />
+          <option name="PATTERN" value="practiceMihail.lesson07_29032023.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,11 +128,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TicTacToe" />
-        <item itemvalue="Application.Palindrome" />
-        <item itemvalue="Application.iteratorDemo" />
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.COLL" />
+        <item itemvalue="Application.CollectionsEx" />
+        <item itemvalue="Application.Test2" />
+        <item itemvalue="Application.Test1" />
+        <item itemvalue="Application.practiceMihail.lesson07_29032023.Main" />
+        <item itemvalue="Application.AnimalDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -152,7 +152,8 @@
       <workItem from="1679857335666" duration="2922000" />
       <workItem from="1679861077694" duration="191000" />
       <workItem from="1679899495770" duration="25576000" />
-      <workItem from="1679937732385" duration="325000" />
+      <workItem from="1679937732385" duration="642000" />
+      <workItem from="1680075098293" duration="10842000" />
     </task>
     <servers />
   </component>
