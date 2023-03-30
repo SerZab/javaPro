@@ -60,13 +60,13 @@
       <recent name="practiceJava.lesson08_24032023" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CollectionsEx">
-    <configuration name="AnimalDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lessons.lesson07_29032023.AnimalDemo" />
+  <component name="RunManager" selected="Application.ListDemo">
+    <configuration name="CollectionsEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practiceMihail.lesson07_29032023.CollectionsEx" />
       <module name="JavaPRO" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lessons.lesson07_29032023.*" />
+          <option name="PATTERN" value="practiceMihail.lesson07_29032023.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -74,12 +74,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CollectionsEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practiceMihail.lesson07_29032023.CollectionsEx" />
+    <configuration name="ListDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homeWork.homeworkPractice02_29032023.ListDemo" />
       <module name="JavaPRO" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="practiceMihail.lesson07_29032023.*" />
+          <option name="PATTERN" value="homeWork.homeworkPractice02_29032023.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,11 +128,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ListDemo" />
         <item itemvalue="Application.CollectionsEx" />
         <item itemvalue="Application.Test2" />
         <item itemvalue="Application.Test1" />
         <item itemvalue="Application.practiceMihail.lesson07_29032023.Main" />
-        <item itemvalue="Application.AnimalDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -153,7 +153,8 @@
       <workItem from="1679861077694" duration="191000" />
       <workItem from="1679899495770" duration="25576000" />
       <workItem from="1679937732385" duration="642000" />
-      <workItem from="1680075098293" duration="10842000" />
+      <workItem from="1680075098293" duration="10976000" />
+      <workItem from="1680210595521" duration="1763000" />
     </task>
     <servers />
   </component>
