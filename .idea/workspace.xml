@@ -5,7 +5,96 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="334a97ca-3969-441a-81de-86d7ab75d518" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/summaryJavaIlia/lesson01_10032023/Superhero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/summaryJavaIlia/lesson01_10032023/newGame/Battle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/summaryJavaIlia/lesson01_10032023/newGame/Superhero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/summaryJavaIlia/lesson02_17032023/AbstractInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/summaryJavaIlia/lesson02_17032023/Blocks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/summaryJavaIlia/lesson02_17032023/Elevator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/summaryJavaIlia/lesson02_17032023/Math.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/summaryJavaIlia/lesson02_17032023/Movable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/summaryJavaIlia/lesson02_17032023/MoveDown.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/summaryJavaIlia/lesson02_17032023/StatVar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/summaryJavaIlia/lesson02_17032023/Varargs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/summaryJavaIlia/lesson02_17032023/cars/BMW.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/summaryJavaIlia/lesson02_17032023/cars/BMW2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/summaryJavaIlia/lesson02_17032023/cars/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/summaryJavaIlia/lesson02_17032023/cars/Mechanic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/summaryJavaIlia/lesson02_17032023/cars/Nissan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/summaryJavaIlia/lesson02_17032023/cars/Tesla.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/summaryJavaIlia/lesson02_17032023/enums/Enum1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/summaryJavaIlia/lesson02_17032023/school/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/summaryJavaIlia/lesson02_17032023/school/CatHouse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/summaryJavaIlia/lesson02_17032023/school/Changable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/summaryJavaIlia/lesson02_17032023/school/DecreaseValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/summaryJavaIlia/lesson02_17032023/school/Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/summaryJavaIlia/lesson02_17032023/school/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/summaryJavaIlia/lesson02_17032023/school/IncreaseValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/summaryJavaIlia/lesson02_17032023/school/Playable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/summaryJavaIlia/lesson02_17032023/school/School.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/summaryJavaIlia/lesson02_17032023/school/SpecialClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/summaryJavaIlia/lesson02_17032023/school/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/summaryJavaIlia/lesson02_17032023/school/Superhero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/summaryJavaIlia/lesson02_17032023/school/Teachable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/summaryJavaIlia/lesson02_17032023/school/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/summaryJavaIlia/lesson02_17032023/school/UseCpecialClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/summaryJavaIlia/lesson03_24032023/LinkedList1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/summaryJavaIlia/lesson03_24032023/ListExamples.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practiceIlia/lesson01_10032023/Superhero.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practiceIlia/lesson01_10032023/newGame/Battle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practiceIlia/lesson01_10032023/newGame/Superhero.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practiceIlia/lesson02_17032023/AbstractInterface.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practiceIlia/lesson02_17032023/Blocks.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practiceIlia/lesson02_17032023/Elevator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practiceIlia/lesson02_17032023/Math.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practiceIlia/lesson02_17032023/Movable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practiceIlia/lesson02_17032023/MoveDown.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practiceIlia/lesson02_17032023/StatVar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practiceIlia/lesson02_17032023/Varargs.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practiceIlia/lesson02_17032023/cars/BMW.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practiceIlia/lesson02_17032023/cars/BMW2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practiceIlia/lesson02_17032023/cars/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practiceIlia/lesson02_17032023/cars/Mechanic.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practiceIlia/lesson02_17032023/cars/Nissan.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practiceIlia/lesson02_17032023/cars/Tesla.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practiceIlia/lesson02_17032023/enums/Enum1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practiceIlia/lesson02_17032023/school/Cat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practiceIlia/lesson02_17032023/school/CatHouse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practiceIlia/lesson02_17032023/school/Changable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practiceIlia/lesson02_17032023/school/DecreaseValue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practiceIlia/lesson02_17032023/school/Driver.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practiceIlia/lesson02_17032023/school/Human.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practiceIlia/lesson02_17032023/school/IncreaseValue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practiceIlia/lesson02_17032023/school/Playable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practiceIlia/lesson02_17032023/school/School.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practiceIlia/lesson02_17032023/school/SpecialClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practiceIlia/lesson02_17032023/school/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practiceIlia/lesson02_17032023/school/Superhero.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practiceIlia/lesson02_17032023/school/Teachable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practiceIlia/lesson02_17032023/school/Teacher.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practiceIlia/lesson02_17032023/school/UseCpecialClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practiceIlia/lesson03_24032023/LinkedList1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practiceIlia/lesson03_24032023/ListExamples.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Icon&#10;" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lessons/Icon&#10;" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lessons/lesson01_06032023/Icon&#10;" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lessons/lesson01_06032023/students/Icon&#10;" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lessons/lesson02_13032023/Icon&#10;" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lessons/lesson02_13032023/abstraction/Icon&#10;" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lessons/lesson02_13032023/animal/Icon&#10;" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lessons/lesson02_13032023/incapsulation/Icon&#10;" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lessons/lesson03_15032023/Icon&#10;" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lessons/lesson03_15032023/musician/Icon&#10;" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lessons/lesson04_20032023/Icon&#10;" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lessons/lesson05_22032023/Icon&#10;" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lessons/lesson05_22032023/arrayList/Icon&#10;" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lessons/lesson05_22032023/benchmarks/Icon&#10;" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lessons/lesson05_22032023/linkedList/Icon&#10;" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lessons/lesson05_22032023/linkedList/core/Icon&#10;" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lessons/lesson05_22032023/linkedList/entity/Icon&#10;" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lessons/lesson05_22032023/linkedList/service/Icon&#10;" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/generated-sources/annotations/Icon&#10;" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,26 +130,39 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/serg/Мой диск/Telran/Java/JavaPRO&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/serg/Мой диск (szabolotnyi777@gmail.com)/Telran/Java/JavaPRO/javaPro",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="practiceJava.lesson08_24032023" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ListDemo">
+  <component name="RunManager" selected="Application.CollectionExamples">
+    <configuration name="CollectionExamples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="summaryJavaIlia.lesson04_31032023.CollectionExamples" />
+      <module name="JavaPRO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="summaryJavaIlia.lesson04_31032023.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CollectionsEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="practiceMihail.lesson07_29032023.CollectionsEx" />
       <module name="JavaPRO" />
@@ -87,12 +189,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practiceMihail.lesson07_29032023.Test1" />
+    <configuration name="Persons" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="summaryJavaIlia.lesson04_31032023.Persons" />
       <module name="JavaPRO" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="practiceMihail.lesson07_29032023.*" />
+          <option name="PATTERN" value="summaryJavaIlia.lesson04_31032023.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,26 +215,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="practiceMihail.lesson07_29032023.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practiceMihail.lesson07_29032023.Main" />
-      <module name="JavaPRO" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="practiceMihail.lesson07_29032023.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CollectionExamples" />
+        <item itemvalue="Application.Persons" />
         <item itemvalue="Application.ListDemo" />
         <item itemvalue="Application.CollectionsEx" />
         <item itemvalue="Application.Test2" />
-        <item itemvalue="Application.Test1" />
-        <item itemvalue="Application.practiceMihail.lesson07_29032023.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -155,6 +244,7 @@
       <workItem from="1679937732385" duration="642000" />
       <workItem from="1680075098293" duration="10976000" />
       <workItem from="1680210595521" duration="1763000" />
+      <workItem from="1680295118284" duration="1076000" />
     </task>
     <servers />
   </component>
