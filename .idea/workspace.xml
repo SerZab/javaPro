@@ -4,7 +4,115 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="334a97ca-3969-441a-81de-86d7ab75d518" name="Changes" comment="" />
+    <list default="true" id="334a97ca-3969-441a-81de-86d7ab75d518" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lessons/Icon&#10;" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lessons/lesson01_06032023/BigDog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lessons/lesson01_06032023/Cat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lessons/lesson01_06032023/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lessons/lesson01_06032023/DogAndCatDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lessons/lesson01_06032023/Icon&#10;" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lessons/lesson01_06032023/students/Aspirant.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lessons/lesson01_06032023/students/Icon&#10;" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lessons/lesson01_06032023/students/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lessons/lesson01_06032023/students/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lessons/lesson01_06032023/students/University.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lessons/lesson02_13032023/CatDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lessons/lesson02_13032023/Icon&#10;" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lessons/lesson02_13032023/abstraction/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lessons/lesson02_13032023/abstraction/CarDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lessons/lesson02_13032023/abstraction/CarDemo2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lessons/lesson02_13032023/abstraction/Icon&#10;" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lessons/lesson02_13032023/abstraction/Sedan.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lessons/lesson02_13032023/abstraction/SportCar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lessons/lesson02_13032023/abstraction/Track.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lessons/lesson02_13032023/animal/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lessons/lesson02_13032023/animal/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lessons/lesson02_13032023/animal/Fish.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lessons/lesson02_13032023/animal/Icon&#10;" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lessons/lesson02_13032023/animal/Worm.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lessons/lesson02_13032023/incapsulation/Cat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lessons/lesson02_13032023/incapsulation/Icon&#10;" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lessons/lesson02_13032023/inheritance/BigDog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lessons/lesson02_13032023/inheritance/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lessons/lesson02_13032023/inheritance/DogDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lessons/lesson02_13032023/inheritance/SmallDog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lessons/lesson03_15032023/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lessons/lesson03_15032023/HomeAnimal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lessons/lesson03_15032023/Icon&#10;" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lessons/lesson03_15032023/TwoDimArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lessons/lesson03_15032023/Util1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lessons/lesson03_15032023/Util2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lessons/lesson03_15032023/musician/Dancer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lessons/lesson03_15032023/musician/Icon&#10;" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lessons/lesson03_15032023/musician/Musician.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lessons/lesson03_15032023/musician/MusicianUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lessons/lesson03_15032023/musician/PopMusician.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lessons/lesson03_15032023/musician/RockMusician.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lessons/lesson03_15032023/musician/Singer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lessons/lesson04_20032023/Catalog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lessons/lesson04_20032023/Day.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lessons/lesson04_20032023/DaysDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lessons/lesson04_20032023/EnumCoffee2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lessons/lesson04_20032023/EnumEx1$Color.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lessons/lesson04_20032023/EnumEx1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lessons/lesson04_20032023/EnumExample1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lessons/lesson04_20032023/Icon&#10;" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lessons/lesson04_20032023/NotEnumEx1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lessons/lesson05_22032023/Icon&#10;" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lessons/lesson05_22032023/arrayList/ArrayElement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lessons/lesson05_22032023/arrayList/ArrayElementDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lessons/lesson05_22032023/arrayList/ArrayListDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lessons/lesson05_22032023/arrayList/ArrayListDemo2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lessons/lesson05_22032023/arrayList/ArrayListDemo3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lessons/lesson05_22032023/arrayList/Icon&#10;" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lessons/lesson05_22032023/arrayList/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lessons/lesson05_22032023/arrayList/PersonDemoWithArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lessons/lesson05_22032023/arrayList/PersonDemoWithArrayList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lessons/lesson05_22032023/benchmarks/ArrayListAddToBegin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lessons/lesson05_22032023/benchmarks/ArrayListAddToEnd.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lessons/lesson05_22032023/benchmarks/ArrayListAddToEndV2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lessons/lesson05_22032023/benchmarks/Icon&#10;" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lessons/lesson05_22032023/benchmarks/LinkedListAddToBegin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lessons/lesson05_22032023/benchmarks/LinkedListAddToEnd.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lessons/lesson05_22032023/linkedList/Icon&#10;" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lessons/lesson05_22032023/linkedList/LibraryApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lessons/lesson05_22032023/linkedList/core/Icon&#10;" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lessons/lesson05_22032023/linkedList/core/LibraryOperations.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lessons/lesson05_22032023/linkedList/entity/Author.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lessons/lesson05_22032023/linkedList/entity/Book.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lessons/lesson05_22032023/linkedList/entity/Icon&#10;" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lessons/lesson05_22032023/linkedList/service/Icon&#10;" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lessons/lesson05_22032023/linkedList/service/InputData.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lessons/lesson05_22032023/linkedList/service/LibraryUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lessons/lesson05_22032023/linkedList/service/OutputData.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lessons/lesson06_27032023/RemoveFromCollections.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lessons/lesson06_27032023/shape/ShapeDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lessons/lesson06_27032023/shape/core/ShapeCore.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lessons/lesson06_27032023/shape/entity/Circle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lessons/lesson06_27032023/shape/entity/Rectangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lessons/lesson06_27032023/shape/entity/Shape.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lessons/lesson06_27032023/shape/entity/Square.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lessons/lesson06_27032023/shape/entity/Triangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lessons/lesson06_27032023/shape/service/CreateShape.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lessons/lesson06_27032023/shape/service/ShapeUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lessons/lesson06_27032023/shape/tests/SquareTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lessons/lesson07_29032023/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lessons/lesson07_29032023/AnimalDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lessons/lesson07_29032023/Bird.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lessons/lesson07_29032023/Class1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lessons/lesson07_29032023/Developer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lessons/lesson07_29032023/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lessons/lesson07_29032023/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lessons/lesson07_29032023/Lizard.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lessons/lesson07_29032023/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lessons/lesson07_29032023/Manager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lessons/lesson07_29032023/MapExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lessons/lesson07_29032023/MapExample2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lessons/lesson07_29032023/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lessons/lesson07_29032023/Pterodactyl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lessons/lesson07_29032023/QaSpecialist.class" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,26 +147,33 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/serg/Мой диск (szabolotnyi777@gmail.com)/Telran/Java/JavaPRO/javaPro",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/serg/Library/CloudStorage/GoogleDrive-szabolotnyi777@gmail.com/Мой диск/Telran/Java/JavaPRO/javaPro&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="practiceJava.lesson08_24032023" />
     </key>
   </component>
   <component name="RunManager" selected="Application.CollectionExamples">
+    <configuration name="Algorithms" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Algorithms" />
+      <module name="JavaPRO" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CollectionExamples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="summaryJavaIlia.lesson04_31032023.CollectionExamples" />
       <module name="JavaPRO" />
@@ -111,26 +226,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practiceMihail.lesson07_29032023.Test2" />
-      <module name="JavaPRO" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="practiceMihail.lesson07_29032023.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.CollectionExamples" />
+        <item itemvalue="Application.Algorithms" />
         <item itemvalue="Application.Persons" />
         <item itemvalue="Application.ListDemo" />
         <item itemvalue="Application.CollectionsEx" />
-        <item itemvalue="Application.Test2" />
       </list>
     </recent_temporary>
   </component>
@@ -154,6 +256,8 @@
       <workItem from="1680075098293" duration="10976000" />
       <workItem from="1680210595521" duration="1763000" />
       <workItem from="1680295118284" duration="1457000" />
+      <workItem from="1680368026164" duration="85000" />
+      <workItem from="1680371434446" duration="19000" />
     </task>
     <servers />
   </component>

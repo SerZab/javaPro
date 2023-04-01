@@ -36,7 +36,7 @@ public class CollectionExamples {
         for (String string : stringList) {
             System.out.println(string);
         }
-
+        // Итератор
         Iterator<String> iterator = stringList.iterator();
         while (iterator.hasNext()){
             String current = iterator.next();

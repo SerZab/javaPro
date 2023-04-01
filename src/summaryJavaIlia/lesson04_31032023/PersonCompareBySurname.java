@@ -3,6 +3,7 @@ package summaryJavaIlia.lesson04_31032023;
 import java.util.Comparator;
 
 public class PersonCompareBySurname implements Comparator<Person> {
+    // сравнение
     @Override
     public int compare(Person o1, Person o2) {
         String surname1 = o1.getSurname();
