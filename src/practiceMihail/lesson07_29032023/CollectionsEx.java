@@ -1,7 +1,6 @@
 package practiceMihail.lesson07_29032023;
 
-import lombok.AllArgsConstructor;
-import lombok.ToString;
+import lombok.*;
 
 import java.util.HashMap;
 import java.util.Map;
@@ -32,6 +31,8 @@ public class CollectionsEx {
 }
 @ToString
 @AllArgsConstructor
+@Getter
+@Setter
 class Emp implements Comparable<Emp>{
     String name;
     int age;
