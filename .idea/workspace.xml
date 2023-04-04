@@ -5,8 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="334a97ca-3969-441a-81de-86d7ab75d518" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_26.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practiceMihail/lesson07_29032023/CollectionsEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practiceMihail/lesson07_29032023/CollectionsEx.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/practiceMihail/lesson08_03042023/paramEx/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/practiceMihail/lesson08_03042023/paramEx/Test.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +59,7 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.importing&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -63,20 +69,7 @@
       <recent name="practiceJava.lesson08_24032023" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Test">
-    <configuration name="HashSetExample2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaProStanislav.lesson08_03042023.setExample.HashSetExample2" />
-      <module name="JavaPRO" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="javaProStanislav.lesson08_03042023.setExample.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Team">
     <configuration name="MapExample1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="javaProStanislav.lesson08_03042023.lessoncode.MapExample1" />
       <module name="JavaPRO" />
@@ -116,6 +109,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Team" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homeWork.chessTournament.Team" />
+      <module name="javaPro" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homeWork.chessTournament.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="practiceMihail.lesson08_03042023.paramEx.Test" />
       <module name="JavaPRO" />
@@ -131,11 +137,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Team" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.Person" />
         <item itemvalue="Application.MapExample1" />
         <item itemvalue="Application.SetExample1" />
-        <item itemvalue="Application.HashSetExample2" />
       </list>
     </recent_temporary>
   </component>
@@ -162,7 +168,19 @@
       <workItem from="1680368026164" duration="85000" />
       <workItem from="1680371434446" duration="19000" />
       <workItem from="1680382449664" duration="187000" />
-      <workItem from="1680507059827" duration="13482000" />
+      <workItem from="1680507059827" duration="13819000" />
+      <workItem from="1680534088138" duration="6341000" />
+      <workItem from="1680552158109" duration="244000" />
+      <workItem from="1680552475608" duration="279000" />
+      <workItem from="1680556346709" duration="75000" />
+      <workItem from="1680559482418" duration="48000" />
+      <workItem from="1680572225921" duration="189000" />
+      <workItem from="1680572518841" duration="232000" />
+      <workItem from="1680572840184" duration="128000" />
+      <workItem from="1680573079929" duration="73000" />
+      <workItem from="1680573201565" duration="17000" />
+      <workItem from="1680573242136" duration="49000" />
+      <workItem from="1680625722438" duration="2698000" />
     </task>
     <servers />
   </component>
