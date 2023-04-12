@@ -6,16 +6,14 @@
   <component name="ChangeListManager">
     <list default="true" id="334a97ca-3969-441a-81de-86d7ab75d518" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homeWork/extraHomeWork/Task2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeWork/extraHomeWork/Task2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homeWork/extraHomeWork/Task5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeWork/extraHomeWork/Task5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homeWork/extraHomeWork/Task6.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/homeWork/extraHomeWork/Book.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/homeWork/extraHomeWork/Book.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/homeWork/extraHomeWork/BookDatabase.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/homeWork/extraHomeWork/BookDatabase.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/homeWork/extraHomeWork/Books.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/homeWork/extraHomeWork/Books.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/homeWork/extraHomeWork/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/homeWork/extraHomeWork/Person.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/homeWork/extraHomeWork/Task2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/homeWork/extraHomeWork/Task2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/homeWork/extraHomeWork/Task5.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/homeWork/extraHomeWork/Task5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/homeWork/extraHomeWork/Task6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homeWork/extraHomeWork/Book.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homeWork/extraHomeWork/BookDatabase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeWork/extraHomeWork/task6_40/BookDatabase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homeWork/extraHomeWork/Books.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeWork/extraHomeWork/task6_40/Books.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homeWork/extraHomeWork/BooksDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeWork/extraHomeWork/task6_40/BooksDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/homeWork/extraHomeWork/Book.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/homeWork/extraHomeWork/BookDatabase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/homeWork/extraHomeWork/Books.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/homeWork/extraHomeWork/BooksDemo.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,11 +73,11 @@
   </component>
   <component name="RunManager" selected="Application.BooksDemo">
     <configuration name="Books" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homeWork.extraHomeWork.Books" />
+      <option name="MAIN_CLASS_NAME" value="homeWork.extraHomeWork.task6_40.Books" />
       <module name="javaPro" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homeWork.extraHomeWork.*" />
+          <option name="PATTERN" value="homeWork.extraHomeWork.task6_40.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,11 +86,11 @@
       </method>
     </configuration>
     <configuration name="BooksDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homeWork.extraHomeWork.BooksDemo" />
+      <option name="MAIN_CLASS_NAME" value="homeWork.extraHomeWork.task6_40.BooksDemo" />
       <module name="javaPro" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homeWork.extraHomeWork.*" />
+          <option name="PATTERN" value="homeWork.extraHomeWork.task6_40.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,7 +103,7 @@
       <module name="javaPro" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homeWork.extraHomeWork.*" />
+          <option name="PATTERN" value="homeWork.extraHomeWork.task6_40.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,7 +116,7 @@
       <module name="javaPro" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homeWork.extraHomeWork.*" />
+          <option name="PATTERN" value="homeWork.extraHomeWork.task6_40.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,7 +129,7 @@
       <module name="javaPro" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homeWork.extraHomeWork.*" />
+          <option name="PATTERN" value="homeWork.extraHomeWork.task6_40.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -192,7 +190,9 @@
       <workItem from="1680899097938" duration="2177000" />
       <workItem from="1680941352449" duration="7642000" />
       <workItem from="1680984255888" duration="3469000" />
-      <workItem from="1681034109080" duration="870000" />
+      <workItem from="1681034109080" duration="1407000" />
+      <workItem from="1681040754446" duration="4736000" />
+      <workItem from="1681164582970" duration="1197000" />
     </task>
     <servers />
   </component>

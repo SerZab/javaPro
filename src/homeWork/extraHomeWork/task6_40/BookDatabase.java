@@ -1,4 +1,4 @@
-package homeWork.extraHomeWork;
+package homeWork.extraHomeWork.task6_40;
 
 import java.util.List;
 import java.util.Optional;
@@ -13,4 +13,5 @@ public interface BookDatabase {
     int countAllBooks(); // Task12
     void deleteByAuthor(String author); // Task13
     void deleteByTitle(String title); // Task14
+
 }
