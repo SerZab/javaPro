@@ -6,14 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="334a97ca-3969-441a-81de-86d7ab75d518" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homeWork/extraHomeWork/Book.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homeWork/extraHomeWork/BookDatabase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeWork/extraHomeWork/task6_40/BookDatabase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homeWork/extraHomeWork/Books.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeWork/extraHomeWork/task6_40/Books.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homeWork/extraHomeWork/BooksDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeWork/extraHomeWork/task6_40/BooksDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/homeWork/extraHomeWork/Book.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/homeWork/extraHomeWork/BookDatabase.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/homeWork/extraHomeWork/Books.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/homeWork/extraHomeWork/BooksDemo.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,28 +42,33 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Volumes/GoogleDrive/Мой диск/Telran/Java/JavaPRO/javaPro&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.general&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Volumes/GoogleDrive/Мой диск/Telran/Java/JavaPRO/javaPro",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.general",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="javaProStanislav.lesson08_03042023.setExample" />
       <recent name="practiceJava.lesson08_24032023" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BooksDemo">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Books" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="homeWork.extraHomeWork.task6_40.Books" />
       <module name="javaPro" />
@@ -91,6 +88,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="homeWork.extraHomeWork.task6_40.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homeWork.extraHomeWork.schoolManagementSystem.Main" />
+      <module name="javaPro" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homeWork.extraHomeWork.schoolManagementSystem.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,26 +134,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homeWork.extraHomeWork.Task7" />
-      <module name="javaPro" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="homeWork.extraHomeWork.task6_40.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.BooksDemo" />
         <item itemvalue="Application.Books" />
         <item itemvalue="Application.Task5" />
         <item itemvalue="Application.Task6" />
-        <item itemvalue="Application.Task7" />
       </list>
     </recent_temporary>
   </component>
@@ -193,6 +190,11 @@
       <workItem from="1681034109080" duration="1407000" />
       <workItem from="1681040754446" duration="4736000" />
       <workItem from="1681164582970" duration="1197000" />
+      <workItem from="1681305729588" duration="159000" />
+      <workItem from="1681333876298" duration="738000" />
+      <workItem from="1681369619202" duration="8127000" />
+      <workItem from="1681473640870" duration="39000" />
+      <workItem from="1681487569554" duration="304000" />
     </task>
     <servers />
   </component>
