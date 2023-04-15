@@ -5,7 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="334a97ca-3969-441a-81de-86d7ab75d518" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/a1fa1906-7fda-4bd7-9ae4-5caa08fd8b04/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/a1fa1906-7fda-4bd7-9ae4-5caa08fd8b04/storage_v2/_src_/schema/mysql.osA4Bg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/a1fa1906-7fda-4bd7-9ae4-5caa08fd8b04/storage_v2/_src_/schema/performance_schema.kIw0nw.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/a1fa1906-7fda-4bd7-9ae4-5caa08fd8b04/storage_v2/_src_/schema/sys.zb4BAA.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/a9917499-6b7e-44c4-9613-cb6c105e37b4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/a9917499-6b7e-44c4-9613-cb6c105e37b4.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaPRO.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaPRO.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,6 +66,7 @@
   },
   "keyToStringList": {
     "DatabaseDriversLRU": [
+      "postgresql",
       "mysql"
     ]
   }
@@ -68,13 +77,13 @@
       <recent name="practiceJava.lesson08_24032023" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="Books" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homeWork.extraHomeWork.task6_40.Books" />
+  <component name="RunManager" selected="Application.JobsDemo">
+    <configuration name="CountriesDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homeWork.dataBases.employees.CountriesDemo" />
       <module name="javaPro" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homeWork.extraHomeWork.task6_40.*" />
+          <option name="PATTERN" value="homeWork.dataBases.hr.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,12 +91,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BooksDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homeWork.extraHomeWork.task6_40.BooksDemo" />
+    <configuration name="EmployeeDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homeWork.dataBases.hr.EmployeeDemo" />
       <module name="javaPro" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homeWork.extraHomeWork.task6_40.*" />
+          <option name="PATTERN" value="homeWork.dataBases.hr.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,12 +104,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homeWork.extraHomeWork.schoolManagementSystem.Main" />
+    <configuration name="JobsDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homeWork.dataBases.hr.JobsDemo" />
       <module name="javaPro" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homeWork.extraHomeWork.schoolManagementSystem.*" />
+          <option name="PATTERN" value="homeWork.dataBases.hr.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,12 +117,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homeWork.extraHomeWork.Task5" />
+    <configuration name="Main1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homeWork.dataBases.Main1" />
       <module name="javaPro" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homeWork.extraHomeWork.task6_40.*" />
+          <option name="PATTERN" value="homeWork.dataBases.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,12 +130,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homeWork.extraHomeWork.Task6" />
+    <configuration name="homeWork.dataBases.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homeWork.dataBases.Main" />
       <module name="javaPro" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homeWork.extraHomeWork.task6_40.*" />
+          <option name="PATTERN" value="homeWork.dataBases.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,11 +145,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.BooksDemo" />
-        <item itemvalue="Application.Books" />
-        <item itemvalue="Application.Task5" />
-        <item itemvalue="Application.Task6" />
+        <item itemvalue="Application.JobsDemo" />
+        <item itemvalue="Application.CountriesDemo" />
+        <item itemvalue="Application.EmployeeDemo" />
+        <item itemvalue="Application.Main1" />
+        <item itemvalue="Application.homeWork.dataBases.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -194,11 +203,28 @@
       <workItem from="1681333876298" duration="738000" />
       <workItem from="1681369619202" duration="8127000" />
       <workItem from="1681473640870" duration="39000" />
-      <workItem from="1681487569554" duration="304000" />
+      <workItem from="1681487569554" duration="978000" />
+      <workItem from="1681488557731" duration="1785000" />
+      <workItem from="1681500136245" duration="535000" />
+      <workItem from="1681500676487" duration="74000" />
+      <workItem from="1681500755482" duration="145000" />
+      <workItem from="1681500912391" duration="4283000" />
+      <workItem from="1681542201277" duration="14234000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
