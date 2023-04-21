@@ -5,14 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="334a97ca-3969-441a-81de-86d7ab75d518" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/76b3d505-0a79-4caf-8b42-70f3edce836a.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/76b3d505-0a79-4caf-8b42-70f3edce836a.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/a6068620-0771-410b-ba27-5781dcd50a7c.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/a6068620-0771-410b-ba27-5781dcd50a7c.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/a9917499-6b7e-44c4-9613-cb6c105e37b4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/a9917499-6b7e-44c4-9613-cb6c105e37b4.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homeWork/dataBases/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeWork/dataBases/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/homeWork/dataBases/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/homeWork/dataBases/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javaProStanislav/lesson11_19042023/MapExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaProStanislav/lesson11_19042023/MapExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javaProStanislav/lesson11_19042023/tree/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javaProStanislav/lesson11_19042023/tree/TreeSetDemo.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,8 +18,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -75,31 +71,21 @@
       <recent name="$PROJECT_DIR$/src/javaProStanislav/lesson09_05042023/compareObjects" />
       <recent name="$PROJECT_DIR$/src/javaProStanislav/lesson09_05042023" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/javaProStanislav/lesson11_19042023/graph" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="javaProStanislav.lesson08_03042023.setExample" />
       <recent name="practiceJava.lesson08_24032023" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TreeSetDemo">
-    <configuration name="ListNode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practiceMihail.lesson09_05042023.ListNode" />
+  <component name="RunManager" selected="Application.StreamExamples">
+    <configuration name="Map1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="summaryJavaIlia.lesson05_21042023.Map1" />
       <module name="javaPro" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="practiceMihail.lesson09_05042023.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MapEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practiceMihail.lesson09_05042023.MapEx" />
-      <module name="javaPro" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="practiceMihail.lesson09_05042023.*" />
+          <option name="PATTERN" value="summaryJavaIlia.lesson05_21042023.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,11 +94,11 @@
       </method>
     </configuration>
     <configuration name="MapExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaProStanislav.lesson11_19042023.MapExample" />
+      <option name="MAIN_CLASS_NAME" value="summaryJavaIlia.lesson05_21042023.MapExample" />
       <module name="javaPro" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javaProStanislav.lesson11_19042023.*" />
+          <option name="PATTERN" value="summaryJavaIlia.lesson05_21042023.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,12 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringCheck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homeWork.homeworkPractice03_17042023.StringCheck" />
+    <configuration name="PriorityQueueExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="summaryJavaIlia.lesson05_21042023.PriorityQueueExample" />
       <module name="javaPro" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homeWork.homeworkPractice03_17042023.*" />
+          <option name="PATTERN" value="summaryJavaIlia.lesson05_21042023.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,12 +119,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TreeSetDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaProStanislav.lesson11_19042023.tree.TreeSetDemo" />
+    <configuration name="StreamExamples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="summaryJavaIlia.lesson05_21042023.StreamExamples" />
       <module name="javaPro" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javaProStanislav.lesson11_19042023.tree.*" />
+          <option name="PATTERN" value="summaryJavaIlia.lesson05_21042023.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Type1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practiceMihail.lesson11_19042023.Type1" />
+      <module name="javaPro" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practiceMihail.lesson11_19042023.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -148,11 +147,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TreeSetDemo" />
-        <item itemvalue="Application.MapExample" />
-        <item itemvalue="Application.StringCheck" />
-        <item itemvalue="Application.MapEx" />
-        <item itemvalue="Application.ListNode" />
+        <item itemvalue="Application.StreamExamples" />
+        <item itemvalue="Application.Map1" />
+        <item itemvalue="Application.summaryJavaIlia.lesson05_21042023.MapExample" />
+        <item itemvalue="Application.PriorityQueueExample" />
+        <item itemvalue="Application.Type1" />
       </list>
     </recent_temporary>
   </component>
@@ -220,7 +219,9 @@
       <workItem from="1681717025059" duration="14931000" />
       <workItem from="1681735203948" duration="484000" />
       <workItem from="1681737248655" duration="2990000" />
-      <workItem from="1681889561537" duration="6121000" />
+      <workItem from="1681889561537" duration="14221000" />
+      <workItem from="1681931845751" duration="271000" />
+      <workItem from="1682062319343" duration="9749000" />
     </task>
     <servers />
   </component>
