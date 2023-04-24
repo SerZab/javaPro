@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="334a97ca-3969-441a-81de-86d7ab75d518" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practiceMihail/lesson12_24042023/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practiceMihail/lesson12_24042023/Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +77,7 @@
       <recent name="practiceJava.lesson08_24032023" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Test">
+  <component name="RunManager" selected="Application.Person">
     <configuration name="BracketChecker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="javaProStanislav.lesson12_24042023.bracketChecker.BracketChecker" />
       <module name="javaPro" />
@@ -90,12 +91,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ContactsApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaProStanislav.lesson12_24042023.contacts.ContactsApp" />
+    <configuration name="Person" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practiceMihail.lesson12_24042023.Person" />
       <module name="javaPro" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javaProStanislav.lesson12_24042023.contacts.*" />
+          <option name="PATTERN" value="practiceMihail.lesson12_24042023.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -144,11 +145,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Person" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.TourBookingDemo" />
         <item itemvalue="Application.BracketChecker" />
         <item itemvalue="Application.ProductApp" />
-        <item itemvalue="Application.ContactsApp" />
       </list>
     </recent_temporary>
   </component>
@@ -219,7 +220,7 @@
       <workItem from="1681889561537" duration="14221000" />
       <workItem from="1681931845751" duration="271000" />
       <workItem from="1682062319343" duration="11317000" />
-      <workItem from="1682321752758" duration="13149000" />
+      <workItem from="1682321752758" duration="16431000" />
     </task>
     <servers />
   </component>

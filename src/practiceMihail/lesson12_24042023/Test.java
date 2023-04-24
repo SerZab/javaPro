@@ -12,6 +12,11 @@ public class Test {
 
 
     public static void main(String[] args) {
+        for (int i = 0; i < 100; i++) {
+            list.add(RANDOM.nextInt(22));
+        }
+        list.stream().distinct();
+
         int[] arr = {1,3,4,54,1,10,32,21,3};
         Stream<Integer> s = Stream.of(1,3,4,54,1,10,32,21,3,54,45);
         long l = s
@@ -35,5 +40,7 @@ public class Test {
         double sum = list.stream().reduce(Integer::sum).get();
         System.out.println("SUM: " + sum);
         System.out.println("TIME: " + (System.currentTimeMillis() - time));
+        String[] str = {"asd", "ASDF", "asdfg", "qwert"};
+
     }
 }
