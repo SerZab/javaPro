@@ -6,9 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="334a97ca-3969-441a-81de-86d7ab75d518" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaProStanislav/lesson11_19042023/MapExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaProStanislav/lesson11_19042023/MapExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaProStanislav/lesson11_19042023/tree/Student.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaProStanislav/lesson11_19042023/tree/TreeSetDemo.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,8 +15,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -79,13 +76,13 @@
       <recent name="practiceJava.lesson08_24032023" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.StreamExamples">
-    <configuration name="Map1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="summaryJavaIlia.lesson05_21042023.Map1" />
+  <component name="RunManager" selected="Application.Test">
+    <configuration name="BracketChecker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaProStanislav.lesson12_24042023.bracketChecker.BracketChecker" />
       <module name="javaPro" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="summaryJavaIlia.lesson05_21042023.*" />
+          <option name="PATTERN" value="javaProStanislav.lesson12_24042023.bracketChecker.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,12 +90,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MapExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="summaryJavaIlia.lesson05_21042023.MapExample" />
+    <configuration name="ContactsApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaProStanislav.lesson12_24042023.contacts.ContactsApp" />
       <module name="javaPro" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="summaryJavaIlia.lesson05_21042023.*" />
+          <option name="PATTERN" value="javaProStanislav.lesson12_24042023.contacts.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,12 +103,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PriorityQueueExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="summaryJavaIlia.lesson05_21042023.PriorityQueueExample" />
+    <configuration name="ProductApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaProStanislav.lesson12_24042023.product.ProductApp" />
       <module name="javaPro" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="summaryJavaIlia.lesson05_21042023.*" />
+          <option name="PATTERN" value="javaProStanislav.lesson12_24042023.product.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,12 +116,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StreamExamples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="summaryJavaIlia.lesson05_21042023.StreamExamples" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practiceMihail.lesson12_24042023.Test" />
       <module name="javaPro" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="summaryJavaIlia.lesson05_21042023.*" />
+          <option name="PATTERN" value="practiceMihail.lesson12_24042023.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,12 +129,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Type1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practiceMihail.lesson11_19042023.Type1" />
+    <configuration name="TourBookingDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaProStanislav.lesson12_24042023.tourBooking.TourBookingDemo" />
       <module name="javaPro" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="practiceMihail.lesson11_19042023.*" />
+          <option name="PATTERN" value="javaProStanislav.lesson12_24042023.tourBooking.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -147,11 +144,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.StreamExamples" />
-        <item itemvalue="Application.Map1" />
-        <item itemvalue="Application.summaryJavaIlia.lesson05_21042023.MapExample" />
-        <item itemvalue="Application.PriorityQueueExample" />
-        <item itemvalue="Application.Type1" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.TourBookingDemo" />
+        <item itemvalue="Application.BracketChecker" />
+        <item itemvalue="Application.ProductApp" />
+        <item itemvalue="Application.ContactsApp" />
       </list>
     </recent_temporary>
   </component>
@@ -221,7 +218,8 @@
       <workItem from="1681737248655" duration="2990000" />
       <workItem from="1681889561537" duration="14221000" />
       <workItem from="1681931845751" duration="271000" />
-      <workItem from="1682062319343" duration="9749000" />
+      <workItem from="1682062319343" duration="11317000" />
+      <workItem from="1682321752758" duration="13149000" />
     </task>
     <servers />
   </component>
