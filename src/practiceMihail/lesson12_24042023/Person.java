@@ -2,6 +2,8 @@ package practiceMihail.lesson12_24042023;
 
 import java.util.ArrayList;
 import java.util.List;
+import java.util.PriorityQueue;
+import java.util.Queue;
 import java.util.stream.Collectors;
 
 public class Person {
@@ -38,6 +40,8 @@ public class Person {
     }
 
     public static void main(String[] args) {
+        Queue<String> queue2 = new PriorityQueue<>(List.of("B","A","C","B","A","C"));
+        System.out.println(queue2);
 
         List<Person> persons = new ArrayList<>();
         Person person1 = new Person("John", 36);
