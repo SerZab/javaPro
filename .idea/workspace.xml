@@ -6,10 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="334a97ca-3969-441a-81de-86d7ab75d518" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaProStanislav/lesson13_26042023/lambdaExamples/LambdaExample2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaProStanislav/lesson13_26042023/lambdaExamples/LambdaExample2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaProStanislav/lesson13_26042023/lambdaExamples/ListMerge.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaProStanislav/lesson13_26042023/lambdaExamples/ListMerge.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practiceMihail/lesson12_24042023/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practiceMihail/lesson12_24042023/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practiceMihail/lesson12_24042023/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practiceMihail/lesson12_24042023/Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,22 +76,9 @@
       <recent name="practiceJava.lesson08_24032023" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.LambdaExample2">
+  <component name="RunManager" selected="Application.Task1">
     <configuration name="AvgExample1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="javaProStanislav.lesson13_26042023.lambda.AvgExample1" />
-      <module name="javaPro" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="javaProStanislav.lesson13_26042023.lambda.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="AvgExample2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaProStanislav.lesson13_26042023.lambda.AvgExample2" />
       <module name="javaPro" />
       <extension name="coverage">
         <pattern>
@@ -133,12 +116,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaProStanislav.lesson13_26042023.functionInterface.StringSort" />
+    <configuration name="Task" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practiceMihail.lesson13_26042023.Task" />
       <module name="javaPro" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javaProStanislav.lesson13_26042023.functionInterface.*" />
+          <option name="PATTERN" value="practiceMihail.lesson13_26042023.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practiceMihail.lesson13_26042023.Task1" />
+      <module name="javaPro" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practiceMihail.lesson13_26042023.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -148,11 +144,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Task1" />
+        <item itemvalue="Application.Task" />
         <item itemvalue="Application.LambdaExample2" />
         <item itemvalue="Application.LambdaExample" />
         <item itemvalue="Application.AvgExample1" />
-        <item itemvalue="Application.AvgExample2" />
-        <item itemvalue="Application.StringSort" />
       </list>
     </recent_temporary>
   </component>
@@ -227,7 +223,7 @@
       <workItem from="1682358011134" duration="247000" />
       <workItem from="1682358262638" duration="4967000" />
       <workItem from="1682376102406" duration="22000" />
-      <workItem from="1682494423841" duration="8364000" />
+      <workItem from="1682494423841" duration="14664000" />
     </task>
     <servers />
   </component>
