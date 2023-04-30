@@ -19,6 +19,8 @@ public class Task {
         System.out.println("----------");
         System.out.println(duplicates(arr));
         System.out.println(duplicatesLamdba(arr));
+        
+
     }
     public static boolean duplicates(int[] arr) {
         Set<Integer> set = new HashSet<>();
