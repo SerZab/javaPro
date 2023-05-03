@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="334a97ca-3969-441a-81de-86d7ab75d518" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homeWork/extra/youtube/stream/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeWork/extra/youtube/stream/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,13 +78,13 @@
       <recent name="practiceJava.lesson08_24032023" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="CatDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="summaryJavaIlia.lesson06_28042023.CatDemo" />
+  <component name="RunManager" selected="Application.Example3">
+    <configuration name="Example1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaProStanislav.lesson14_03052023.Example1" />
       <module name="javaPro" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="summaryJavaIlia.lesson06_28042023.*" />
+          <option name="PATTERN" value="javaProStanislav.lesson14_03052023.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,12 +92,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homeWork.extra.youtube.lambda.Main" />
+    <configuration name="Example2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaProStanislav.lesson14_03052023.Example2" />
       <module name="javaPro" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homeWork.extra.youtube.lambda.*" />
+          <option name="PATTERN" value="javaProStanislav.lesson14_03052023.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,12 +105,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StreamTasks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homeWork.homeWorkSummary_28042023.StreamTasks" />
+    <configuration name="Example3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaProStanislav.lesson14_03052023.Example3" />
       <module name="javaPro" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homeWork.homeWorkSummary_28042023.*" />
+          <option name="PATTERN" value="javaProStanislav.lesson14_03052023.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,12 +118,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StreamTasks1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homeWork.homeWorkSummary_28042023.StreamTasks1" />
+    <configuration name="StandartFuncInterface" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaProStanislav.lesson14_03052023.StandartFuncInterface" />
       <module name="javaPro" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homeWork.homeWorkSummary_28042023.*" />
+          <option name="PATTERN" value="javaProStanislav.lesson14_03052023.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,8 +131,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="homeWork.extra.youtube.stream.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homeWork.extra.youtube.stream.Main" />
+    <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homeWork.extra.youtube.stream.Test2" />
       <module name="javaPro" />
       <extension name="coverage">
         <pattern>
@@ -145,11 +146,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.homeWork.extra.youtube.stream.Main" />
-        <item itemvalue="Application.StreamTasks" />
-        <item itemvalue="Application.StreamTasks1" />
-        <item itemvalue="Application.CatDemo" />
+        <item itemvalue="Application.Example3" />
+        <item itemvalue="Application.Example2" />
+        <item itemvalue="Application.Example1" />
+        <item itemvalue="Application.StandartFuncInterface" />
+        <item itemvalue="Application.Test2" />
       </list>
     </recent_temporary>
   </component>
@@ -239,7 +240,11 @@
       <workItem from="1682770642688" duration="446000" />
       <workItem from="1682882633548" duration="2833000" />
       <workItem from="1682885619777" duration="554000" />
-      <workItem from="1682933562571" duration="2716000" />
+      <workItem from="1682933562571" duration="2880000" />
+      <workItem from="1682956445753" duration="4344000" />
+      <workItem from="1683012611043" duration="1000" />
+      <workItem from="1683029817154" duration="71000" />
+      <workItem from="1683099671847" duration="5639000" />
     </task>
     <servers />
   </component>

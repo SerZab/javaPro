@@ -1,5 +1,6 @@
 package homeWork.extra.youtube.stream;
 
+import java.util.Arrays;
 import java.util.List;
 import java.util.Optional;
 import java.util.stream.Collectors;
@@ -21,5 +22,15 @@ public class Main {
 //                .count();
 //        System.out.println(count);
         persons.stream().forEach(p-> System.out.println(p));
+
+        int number = 123456789;
+        int[] arr = Integer.toString(number)
+                .chars()
+                .map(Character::getNumericValue)
+                .toArray();
+        System.out.println(Arrays.toString(arr));
+        int num = Arrays.stream(arr)
+                .reduce(0,(n,m)->n=n*10+m);
+        System.out.println(num);
     }
 }
