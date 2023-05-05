@@ -77,13 +77,13 @@
       <recent name="practiceJava.lesson08_24032023" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Tasks1">
-    <configuration name="StreamExample3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaProStanislav.lesson14_03052023.stream.StreamExample3" />
+  <component name="RunManager" selected="Application.MapExample">
+    <configuration name="CollectExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="summaryJavaIlia.lesson07_05052023.CollectExample" />
       <module name="javaPro" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javaProStanislav.lesson14_03052023.stream.*" />
+          <option name="PATTERN" value="summaryJavaIlia.lesson07_05052023.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,12 +91,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StreamExample4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaProStanislav.lesson14_03052023.stream.StreamExample4" />
+    <configuration name="MapExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="summaryJavaIlia.lesson07_05052023.MapExample" />
       <module name="javaPro" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javaProStanislav.lesson14_03052023.stream.*" />
+          <option name="PATTERN" value="summaryJavaIlia.lesson07_05052023.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,12 +104,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StreamExample5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaProStanislav.lesson14_03052023.stream.StreamExample5" />
+    <configuration name="OptionalExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="summaryJavaIlia.lesson07_05052023.OptionalExample" />
       <module name="javaPro" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javaProStanislav.lesson14_03052023.stream.*" />
+          <option name="PATTERN" value="summaryJavaIlia.lesson07_05052023.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,12 +117,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Tasks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practiceMihail.lesson14_03052023.Tasks" />
+    <configuration name="StreamExamples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="summaryJavaIlia.lesson07_05052023.StreamExamples" />
       <module name="javaPro" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="practiceMihail.lesson14_03052023.*" />
+          <option name="PATTERN" value="summaryJavaIlia.lesson07_05052023.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,12 +130,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Tasks1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practiceMihail.lesson14_03052023.Tasks1" />
+    <configuration name="homeWork.homeworkPractice_03052023.Tasks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homeWork.homeworkPractice_03052023.Tasks" />
       <module name="javaPro" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="practiceMihail.lesson14_03052023.*" />
+          <option name="PATTERN" value="homeWork.homeworkPractice_03052023.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -145,11 +145,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Tasks1" />
-        <item itemvalue="Application.Tasks" />
-        <item itemvalue="Application.StreamExample5" />
-        <item itemvalue="Application.StreamExample4" />
-        <item itemvalue="Application.StreamExample3" />
+        <item itemvalue="Application.MapExample" />
+        <item itemvalue="Application.CollectExample" />
+        <item itemvalue="Application.OptionalExample" />
+        <item itemvalue="Application.StreamExamples" />
+        <item itemvalue="Application.homeWork.homeworkPractice_03052023.Tasks" />
       </list>
     </recent_temporary>
   </component>
@@ -245,6 +245,12 @@
       <workItem from="1683029817154" duration="71000" />
       <workItem from="1683099671847" duration="17041000" />
       <workItem from="1683117672556" duration="158000" />
+      <workItem from="1683117833418" duration="29000" />
+      <workItem from="1683138190323" duration="179000" />
+      <workItem from="1683138692850" duration="620000" />
+      <workItem from="1683147743429" duration="65000" />
+      <workItem from="1683199547662" duration="691000" />
+      <workItem from="1683271868178" duration="12316000" />
     </task>
     <servers />
   </component>
