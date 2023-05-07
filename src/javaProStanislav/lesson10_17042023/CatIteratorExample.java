@@ -22,7 +22,7 @@ public class CatIteratorExample {
         cats.add(pushok);
         System.out.println(cats);
 
-//        for(Cat cat : cats){
+//        for(CatExamples cat : cats){
 //            if (cat.name.equals("Begemot")){
 //                cats.remove(cat);
 //            }

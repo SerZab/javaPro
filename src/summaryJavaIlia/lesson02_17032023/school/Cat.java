@@ -9,7 +9,7 @@ public class Cat implements Playable{
 
     @Override
     public void play() {
-        System.out.println("Cat play!");
+        System.out.println("CatExamples play!");
     }
 
     public class Kitten {

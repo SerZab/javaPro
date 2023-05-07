@@ -29,8 +29,8 @@ public class StreamTasks {
                 .distinct()
                 .toList());
         System.out.println("------");
-        //3. Создать класс Cat с полями String name, int age, String colour, boolean isHungry
-        //  Создать список из экземплянов класса Cat. С помощью стримов:
+        //3. Создать класс CatExamples с полями String name, int age, String colour, boolean isHungry
+        //  Создать список из экземплянов класса CatExamples. С помощью стримов:
 
         Cat cat1 = new Cat("Barsik", 2, "Black", true);
         Cat cat2 = new Cat("Tom", 3, "Gray", false);

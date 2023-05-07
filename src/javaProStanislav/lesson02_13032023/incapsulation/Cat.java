@@ -32,7 +32,7 @@ public class Cat {
 
     @Override
     public String toString() {
-        return "Cat{" +
+        return "CatExamples{" +
                 "name='" + name + '\'' +
                 ", id=" + id +
                 ", breed='" + breed + '\'' +

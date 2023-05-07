@@ -7,12 +7,12 @@ import java.util.List;
 //- по алфавиту
 //- в обратном порядке
 //2. Из списка чисел типа Integer с помощью стримов создать список их строковых представлений
-//3. Создать класс Cat с полями
+//3. Создать класс CatExamples с полями
 //String name
 //int age
 //String colour
 //boolean isHungry
-//Создать список из экземплянов класса Cat. С помощью стримов:
+//Создать список из экземплянов класса CatExamples. С помощью стримов:
 //- вывести список голодных кошек старше 2 лет
 //- вывести список черных кошек с именем, начинающимся на T
 //- вывести список имен кошек возраста 1 год
@@ -43,12 +43,12 @@ public class CatDemo {
         System.out.println("------");
         System.out.println(cats.stream().filter(cat -> cat.age==1).toList());
 //
-//        List<Cat> blackCatsStartingWithT = cats.stream()
+//        List<CatExamples> blackCatsStartingWithT = cats.stream()
 //                .filter(cat -> cat.getColour().equals("Black") && cat.getName().startsWith("T")).toList();
 //        System.out.println("Список черных кошек с именем, начинающимся на T: " + blackCatsStartingWithT);
 //        System.out.println("---");
 //
-//        List<String> oneYearOldCatNames = cats.stream().filter(cat -> cat.getAge() == 1).map(Cat::getName).toList();
+//        List<String> oneYearOldCatNames = cats.stream().filter(cat -> cat.getAge() == 1).map(CatExamples::getName).toList();
 //        System.out.println("Список имен кошек возраста 1 год: " + oneYearOldCatNames);
     }
 }
