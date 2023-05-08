@@ -364,6 +364,7 @@ public class JavaStreamTask1 {
         for(Map.Entry<Integer,Long> entry : dayOfWeekSorted.entrySet()){
             System.out.println("Самый популярный день: "+ entry.getKey()+", количество матчей: "+entry.getValue());
         }
+
     }
     public static Map<String, Integer> countGuestMatches(List<Match> matches) {
         long startTime = System.currentTimeMillis(); // засекаем время начала работы метода
@@ -398,8 +399,8 @@ public class JavaStreamTask1 {
             count++;
         }
     }
+    
 }
-
 class Match {
     private Calendar date;
     private String team1, result, team2, watchers, stadium;
@@ -449,3 +450,5 @@ class Match {
         return date.get(Calendar.YEAR) + "-" + date.get(Calendar.MONTH) + "-" + date.get(Calendar.DATE) + " " + team1 + " " + getResult1() + ":" + getResult2() + " " + team2 + " " + getWatchers();
     }
 }
+
+

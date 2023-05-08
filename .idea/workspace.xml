@@ -6,17 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="334a97ca-3969-441a-81de-86d7ab75d518" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homeWork/homeWorkSummary_28042023/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeWork/homeWorkSummary_28042023/Cat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homeWork/homeWorkSummary_28042023/StreamTasks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeWork/homeWorkSummary_28042023/StreamTasks.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homeWork/homeWork_03052023/Tasks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeWork/homeWork_03052023/Tasks.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaProStanislav/lesson02_13032023/incapsulation/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaProStanislav/lesson02_13032023/incapsulation/Cat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaProStanislav/lesson09_05042023/compareObjects/mixCompare/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaProStanislav/lesson09_05042023/compareObjects/mixCompare/Cat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaProStanislav/lesson10_17042023/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaProStanislav/lesson10_17042023/Cat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaProStanislav/lesson10_17042023/CatIteratorExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaProStanislav/lesson10_17042023/CatIteratorExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/summaryJavaIlia/lesson02_17032023/school/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/summaryJavaIlia/lesson02_17032023/school/Cat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/summaryJavaIlia/lesson06_28042023/CatDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/summaryJavaIlia/lesson06_28042023/CatDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/javaProStanislav/lesson02_13032023/incapsulation/Cat.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/javaProStanislav/lesson02_13032023/incapsulation/Cat.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/summaryJavaIlia/lesson02_17032023/school/Cat.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/summaryJavaIlia/lesson02_17032023/school/Cat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homeWork/homeWork_03052023/JavaStreamTask1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeWork/homeWork_03052023/JavaStreamTask1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homeWork/homeworkPractice_03052023/Tasks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeWork/homeworkPractice_03052023/Tasks.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,13 +79,13 @@
       <recent name="practiceJava.lesson08_24032023" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.JavaStreamTask1">
-    <configuration name="CatExamples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homeWork.homeWorkSummary_05052023.CatExamples" />
+  <component name="RunManager" selected="Application.StreamExample8">
+    <configuration name="Example5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaProStanislav.lesson15_08052023.streamPractice.Example5" />
       <module name="javaPro" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homeWork.homeWorkSummary_05052023.*" />
+          <option name="PATTERN" value="javaProStanislav.lesson15_08052023.streamPractice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,12 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CollectExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="summaryJavaIlia.lesson07_05052023.CollectExample" />
+    <configuration name="Example6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaProStanislav.lesson15_08052023.streamPractice.Example6" />
       <module name="javaPro" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="summaryJavaIlia.lesson07_05052023.*" />
+          <option name="PATTERN" value="javaProStanislav.lesson15_08052023.streamPractice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,12 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JavaStreamTask1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homeWork.homeWork_03052023.JavaStreamTask1" />
+    <configuration name="Example7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaProStanislav.lesson15_08052023.streamPractice.Example7" />
       <module name="javaPro" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homeWork.homeWork_03052023.*" />
+          <option name="PATTERN" value="javaProStanislav.lesson15_08052023.streamPractice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,12 +119,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MapExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="summaryJavaIlia.lesson07_05052023.MapExample" />
+    <configuration name="PersonMaxAgeDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaProStanislav.lesson15_08052023.streamPractice.PersonMaxAgeDemo" />
       <module name="javaPro" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="summaryJavaIlia.lesson07_05052023.*" />
+          <option name="PATTERN" value="javaProStanislav.lesson15_08052023.streamPractice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -141,12 +132,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Tasks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homeWork.homeWork_03052023.Tasks" />
+    <configuration name="StreamExample8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaProStanislav.lesson15_08052023.streamPractice.StreamExample8" />
       <module name="javaPro" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homeWork.homeWork_03052023.*" />
+          <option name="PATTERN" value="javaProStanislav.lesson15_08052023.streamPractice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -156,11 +147,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.JavaStreamTask1" />
-        <item itemvalue="Application.Tasks" />
-        <item itemvalue="Application.CatExamples" />
-        <item itemvalue="Application.MapExample" />
-        <item itemvalue="Application.CollectExample" />
+        <item itemvalue="Application.StreamExample8" />
+        <item itemvalue="Application.Example7" />
+        <item itemvalue="Application.PersonMaxAgeDemo" />
+        <item itemvalue="Application.Example6" />
+        <item itemvalue="Application.Example5" />
       </list>
     </recent_temporary>
   </component>
@@ -268,6 +259,8 @@
       <workItem from="1683399375346" duration="6000" />
       <workItem from="1683399413113" duration="5701000" />
       <workItem from="1683448084620" duration="12835000" />
+      <workItem from="1683474834286" duration="9454000" />
+      <workItem from="1683530852783" duration="10995000" />
     </task>
     <servers />
   </component>
