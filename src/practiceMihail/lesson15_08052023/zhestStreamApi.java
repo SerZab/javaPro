@@ -77,7 +77,6 @@ public class zhestStreamApi {
 
         getMostProAuthors(books);
 
-
     }
     public static void getMostProAuthors(List<Book> books) {
         Map<String, Long> collect = books.stream()
