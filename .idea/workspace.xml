@@ -6,8 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="334a97ca-3969-441a-81de-86d7ab75d518" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homeWork/homeWork_03052023/JavaStreamTask1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeWork/homeWork_03052023/JavaStreamTask1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homeWork/homeworkPractice_03052023/Tasks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeWork/homeworkPractice_03052023/Tasks.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,13 +77,13 @@
       <recent name="practiceJava.lesson08_24032023" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.StreamExample8">
-    <configuration name="Example5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaProStanislav.lesson15_08052023.streamPractice.Example5" />
+  <component name="RunManager" selected="Application.FlatMapExample3">
+    <configuration name="FindItem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaProStanislav.lesson16_10052023.lambdaExample2.FindItem" />
       <module name="javaPro" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javaProStanislav.lesson15_08052023.streamPractice.*" />
+          <option name="PATTERN" value="javaProStanislav.lesson16_10052023.lambdaExample2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,12 +91,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Example6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaProStanislav.lesson15_08052023.streamPractice.Example6" />
+    <configuration name="FlatMapExample1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaProStanislav.lesson16_10052023.streamPractice.flatMapExample.FlatMapExample1" />
       <module name="javaPro" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javaProStanislav.lesson15_08052023.streamPractice.*" />
+          <option name="PATTERN" value="javaProStanislav.lesson16_10052023.streamPractice.flatMapExample.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,12 +104,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Example7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaProStanislav.lesson15_08052023.streamPractice.Example7" />
+    <configuration name="FlatMapExample2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaProStanislav.lesson16_10052023.streamPractice.flatMapExample2.FlatMapExample2" />
       <module name="javaPro" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javaProStanislav.lesson15_08052023.streamPractice.*" />
+          <option name="PATTERN" value="javaProStanislav.lesson16_10052023.streamPractice.flatMapExample2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,12 +117,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PersonMaxAgeDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaProStanislav.lesson15_08052023.streamPractice.PersonMaxAgeDemo" />
+    <configuration name="FlatMapExample3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaProStanislav.lesson16_10052023.streamPractice.flatMapExapmle3.FlatMapExample3" />
       <module name="javaPro" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javaProStanislav.lesson15_08052023.streamPractice.*" />
+          <option name="PATTERN" value="javaProStanislav.lesson16_10052023.streamPractice.flatMapExapmle3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,12 +130,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StreamExample8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaProStanislav.lesson15_08052023.streamPractice.StreamExample8" />
+    <configuration name="SortRevers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaProStanislav.lesson16_10052023.streamPractice.sortRevers.SortRevers" />
       <module name="javaPro" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javaProStanislav.lesson15_08052023.streamPractice.*" />
+          <option name="PATTERN" value="javaProStanislav.lesson16_10052023.streamPractice.sortRevers.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -147,11 +145,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.StreamExample8" />
-        <item itemvalue="Application.Example7" />
-        <item itemvalue="Application.PersonMaxAgeDemo" />
-        <item itemvalue="Application.Example6" />
-        <item itemvalue="Application.Example5" />
+        <item itemvalue="Application.FlatMapExample3" />
+        <item itemvalue="Application.SortRevers" />
+        <item itemvalue="Application.FlatMapExample1" />
+        <item itemvalue="Application.FlatMapExample2" />
+        <item itemvalue="Application.FindItem" />
       </list>
     </recent_temporary>
   </component>
@@ -260,7 +258,10 @@
       <workItem from="1683399413113" duration="5701000" />
       <workItem from="1683448084620" duration="12835000" />
       <workItem from="1683474834286" duration="9454000" />
-      <workItem from="1683530852783" duration="10995000" />
+      <workItem from="1683530852783" duration="18461000" />
+      <workItem from="1683577616049" duration="3157000" />
+      <workItem from="1683616761870" duration="111000" />
+      <workItem from="1683703906513" duration="11122000" />
     </task>
     <servers />
   </component>
