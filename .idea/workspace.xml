@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="334a97ca-3969-441a-81de-86d7ab75d518" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practiceMihail/lesson15_08052023/zhestStreamApi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practiceMihail/lesson15_08052023/zhestStreamApi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homeWork/homeWorkSummary_05052023/CatExamples.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeWork/homeWorkSummary_05052023/CatExamples.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,13 +78,13 @@
       <recent name="practiceJava.lesson08_24032023" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.HW8">
-    <configuration name="FlatMapExample3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaProStanislav.lesson16_10052023.streamPractice.flatMapExapmle3.FlatMapExample3" />
+  <component name="RunManager" selected="Application.Test4">
+    <configuration name="RunnableTask" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="summaryJavaIlia.lesson08_12052023.RunnableTask" />
       <module name="javaPro" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javaProStanislav.lesson16_10052023.streamPractice.flatMapExapmle3.*" />
+          <option name="PATTERN" value="summaryJavaIlia.lesson08_12052023.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,12 +92,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GroupingAndPartitioningBy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practiceMihail.lesson16_10052023.GroupingAndPartitioningBy" />
+    <configuration name="Tasks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="summaryJavaIlia.lesson08_12052023.Tasks" />
       <module name="javaPro" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="practiceMihail.lesson16_10052023.*" />
+          <option name="PATTERN" value="summaryJavaIlia.lesson08_12052023.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,12 +105,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HW8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homeWork.homeworkPractice_10052023.HW8" />
+    <configuration name="Test3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homeWork.extra.youtube.stream.Test3" />
       <module name="javaPro" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homeWork.homeworkPractice_10052023.*" />
+          <option name="PATTERN" value="homeWork.extra.youtube.stream.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,12 +118,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SortRevers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaProStanislav.lesson16_10052023.streamPractice.sortRevers.SortRevers" />
+    <configuration name="Test4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homeWork.extra.youtube.stream.Test4" />
       <module name="javaPro" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javaProStanislav.lesson16_10052023.streamPractice.sortRevers.*" />
+          <option name="PATTERN" value="homeWork.extra.youtube.stream.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,12 +131,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="zhestStreamApi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practiceMihail.lesson15_08052023.zhestStreamApi" />
+    <configuration name="Triples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="summaryJavaIlia.lesson08_12052023.Triples" />
       <module name="javaPro" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="practiceMihail.lesson15_08052023.*" />
+          <option name="PATTERN" value="summaryJavaIlia.lesson08_12052023.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -146,11 +146,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.HW8" />
-        <item itemvalue="Application.GroupingAndPartitioningBy" />
-        <item itemvalue="Application.zhestStreamApi" />
-        <item itemvalue="Application.FlatMapExample3" />
-        <item itemvalue="Application.SortRevers" />
+        <item itemvalue="Application.Test4" />
+        <item itemvalue="Application.Test3" />
+        <item itemvalue="Application.RunnableTask" />
+        <item itemvalue="Application.Triples" />
+        <item itemvalue="Application.Tasks" />
       </list>
     </recent_temporary>
   </component>
@@ -264,7 +264,8 @@
       <workItem from="1683616761870" duration="111000" />
       <workItem from="1683703906513" duration="16721000" />
       <workItem from="1683746004540" duration="3524000" />
-      <workItem from="1683750196268" duration="394000" />
+      <workItem from="1683750196268" duration="632000" />
+      <workItem from="1683876409322" duration="14956000" />
     </task>
     <servers />
   </component>
