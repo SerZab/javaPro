@@ -1,7 +1,7 @@
 package summaryJavaIlia.lesson07_05052023;
 
 
-import homeWork.homeWorkSummary_28042023.Cat;
+import homeWork.summary.hw01_28042023.Cat;
 
 import java.util.*;
 import java.util.stream.IntStream;

@@ -6,7 +6,99 @@
   <component name="ChangeListManager">
     <list default="true" id="334a97ca-3969-441a-81de-86d7ab75d518" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homeWork/homeWorkSummary_05052023/CatExamples.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeWork/homeWorkSummary_05052023/CatExamples.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homeWork/chessTournament/ChessPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeWork/extra/chessTournament/ChessPlayer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homeWork/chessTournament/ChessTournament.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeWork/extra/chessTournament/ChessTournament.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homeWork/chessTournament/Team.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeWork/extra/chessTournament/Team.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homeWork/dataBases/DBWorker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeWork/extra/dataBases/DBWorker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homeWork/dataBases/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeWork/extra/dataBases/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homeWork/dataBases/Main1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeWork/extra/dataBases/Main1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homeWork/dataBases/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeWork/extra/dataBases/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homeWork/dataBases/hr/ConnectHR.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeWork/extra/dataBases/hr/ConnectHR.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homeWork/dataBases/hr/Countries.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeWork/extra/dataBases/hr/Countries.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homeWork/dataBases/hr/CountriesDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeWork/extra/dataBases/hr/CountriesDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homeWork/dataBases/hr/EmployeeDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeWork/extra/dataBases/hr/EmployeeDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homeWork/dataBases/hr/Employees.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeWork/extra/dataBases/hr/Employees.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homeWork/dataBases/hr/Jobs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeWork/extra/dataBases/hr/Jobs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homeWork/dataBases/hr/JobsDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeWork/extra/dataBases/hr/JobsDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homeWork/extra/Task11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeWork/extra/Task11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homeWork/extraHomeWork/Task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeWork/extra/extraHomeWork/Task1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homeWork/extraHomeWork/Task2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeWork/extra/extraHomeWork/Task2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homeWork/extraHomeWork/Task3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeWork/extra/extraHomeWork/Task3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homeWork/extraHomeWork/Task4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeWork/extra/extraHomeWork/Task4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homeWork/extraHomeWork/Task5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeWork/extra/extraHomeWork/Task5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homeWork/extraHomeWork/schoolManagementSystem/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeWork/extra/extraHomeWork/schoolManagementSystem/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homeWork/extraHomeWork/schoolManagementSystem/School.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeWork/extra/extraHomeWork/schoolManagementSystem/School.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homeWork/extraHomeWork/schoolManagementSystem/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeWork/extra/extraHomeWork/schoolManagementSystem/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homeWork/extraHomeWork/schoolManagementSystem/Teacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeWork/extra/extraHomeWork/schoolManagementSystem/Teacher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homeWork/extraHomeWork/task6_40/AndSearchCriteria.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeWork/extra/extraHomeWork/task6_40/AndSearchCriteria.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homeWork/extraHomeWork/task6_40/AuthorSearchCriteria.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeWork/extra/extraHomeWork/task6_40/AuthorSearchCriteria.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homeWork/extraHomeWork/task6_40/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeWork/extra/extraHomeWork/task6_40/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homeWork/extraHomeWork/task6_40/BookDatabase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeWork/extra/extraHomeWork/task6_40/BookDatabase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homeWork/extraHomeWork/task6_40/Books.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeWork/extra/extraHomeWork/task6_40/Books.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homeWork/extraHomeWork/task6_40/BooksDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeWork/extra/extraHomeWork/task6_40/BooksDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homeWork/extraHomeWork/task6_40/SearchCriteria.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeWork/extra/extraHomeWork/task6_40/SearchCriteria.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homeWork/extraHomeWork/task6_40/TitleSearchCriteria.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeWork/extra/extraHomeWork/task6_40/TitleSearchCriteria.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homeWork/extraHomeWork/task6_40/YearOfIssueSearchCriteria.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeWork/extra/extraHomeWork/task6_40/YearOfIssueSearchCriteria.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homeWork/homeWorkSummary_05052023/CatExamples.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeWork/summary/hw02_05052023/CatExamples.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homeWork/homeWorkSummary_28042023/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeWork/summary/hw01_28042023/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homeWork/homeWorkSummary_28042023/StreamTasks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeWork/summary/hw01_28042023/StreamTasks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homeWork/homeWorkSummary_28042023/StreamTasks1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeWork/summary/hw01_28042023/StreamTasks1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homeWork/homeWork_03052023/JavaStreamTask1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeWork/javaPro/hw01_03052023/JavaStreamTask1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homeWork/homeWork_03052023/Tasks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeWork/javaPro/hw01_03052023/Tasks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homeWork/homeworkPractice01_13032023/SourceLanguage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeWork/practice/hw01_13032023/SourceLanguage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homeWork/homeworkPractice01_13032023/TargetLanguage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeWork/practice/hw01_13032023/TargetLanguage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homeWork/homeworkPractice01_13032023/Translation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeWork/practice/hw01_13032023/Translation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homeWork/homeworkPractice01_13032023/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeWork/practice/hw01_13032023/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homeWork/homeworkPractice01_13032023/googleTranslate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeWork/practice/hw01_13032023/googleTranslate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homeWork/homeworkPractice02_29032023/ListDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeWork/practice/hw02_29032023/ListDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homeWork/homeworkPractice03_17042023/StringCheck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeWork/practice/hw03_17042023/StringCheck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homeWork/homeworkPractice_03052023/Tasks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeWork/practice/hw04_03052023/Tasks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homeWork/homeworkPractice_10052023/HW8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeWork/practice/hw05_10052023/HW8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/summaryJavaIlia/lesson07_05052023/StreamExamples.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/summaryJavaIlia/lesson07_05052023/StreamExamples.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/summaryJavaIlia/lesson08_12052023/Tasks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/summaryJavaIlia/lesson08_12052023/Tasks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/homeWork/chessTournament/BeginnerPlayer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/homeWork/chessTournament/ChessPlayer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/homeWork/chessTournament/ChessTournament.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/homeWork/chessTournament/GuruPlayer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/homeWork/chessTournament/MasterPlayer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/homeWork/chessTournament/ProPlayer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/homeWork/chessTournament/Team.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/homeWork/dataBases/DBWorker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/homeWork/dataBases/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/homeWork/dataBases/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/homeWork/dataBases/hr/ConnectHR.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/homeWork/dataBases/hr/Countries.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/homeWork/dataBases/hr/CountriesDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/homeWork/dataBases/hr/EmployeeDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/homeWork/dataBases/hr/Employees.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/homeWork/dataBases/hr/Jobs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/homeWork/dataBases/hr/JobsDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/homeWork/extra/Task11.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/homeWork/extra/Task11.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/homeWork/extraHomeWork/Book1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/homeWork/extraHomeWork/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/homeWork/extraHomeWork/Task1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/homeWork/extraHomeWork/Task2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/homeWork/extraHomeWork/Task3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/homeWork/extraHomeWork/Task4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/homeWork/extraHomeWork/Task5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/homeWork/extraHomeWork/schoolManagementSystem/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/homeWork/extraHomeWork/schoolManagementSystem/School.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/homeWork/extraHomeWork/schoolManagementSystem/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/homeWork/extraHomeWork/schoolManagementSystem/Teacher.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/homeWork/extraHomeWork/task6_40/AndSearchCriteria.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/homeWork/extraHomeWork/task6_40/AuthorSearchCriteria.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/homeWork/extraHomeWork/task6_40/Book.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/homeWork/extraHomeWork/task6_40/BookDatabase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/homeWork/extraHomeWork/task6_40/Books.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/homeWork/extraHomeWork/task6_40/BooksDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/homeWork/extraHomeWork/task6_40/SearchCriteria.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/homeWork/extraHomeWork/task6_40/TitleSearchCriteria.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/homeWork/extraHomeWork/task6_40/YearOfIssueSearchCriteria.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/homeWork/homeworkPractice01_13032023/SourceLanguage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/homeWork/homeworkPractice01_13032023/TargetLanguage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/homeWork/homeworkPractice01_13032023/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/homeWork/homeworkPractice02_29032023/ListDemo.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +141,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;extract.method.default.visibility&quot;: &quot;private&quot;,
     &quot;last_opened_file_path&quot;: &quot;/Volumes/GoogleDrive/Мой диск/Telran/Java/JavaPRO/javaPro&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -78,13 +171,13 @@
       <recent name="practiceJava.lesson08_24032023" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Test4">
-    <configuration name="RunnableTask" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="summaryJavaIlia.lesson08_12052023.RunnableTask" />
+  <component name="RunManager" selected="Application.StaticMath">
+    <configuration name="CustomerPurchaseHistory" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaProStanislav.test3.CustomerPurchaseHistory" />
       <module name="javaPro" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="summaryJavaIlia.lesson08_12052023.*" />
+          <option name="PATTERN" value="javaProStanislav.test3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,12 +185,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Tasks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="summaryJavaIlia.lesson08_12052023.Tasks" />
+    <configuration name="FileWriterExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="summaryJavaIlia.lesson09_19052023.FileWriterExample" />
       <module name="javaPro" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="summaryJavaIlia.lesson08_12052023.*" />
+          <option name="PATTERN" value="summaryJavaIlia.lesson09_19052023.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,12 +198,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homeWork.extra.youtube.stream.Test3" />
+    <configuration name="MatchesReader" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaProStanislav.lesson17_15052023.matches.MatchesReader" />
       <module name="javaPro" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homeWork.extra.youtube.stream.*" />
+          <option name="PATTERN" value="javaProStanislav.lesson17_15052023.matches.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,12 +211,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homeWork.extra.youtube.stream.Test4" />
+    <configuration name="RegExExamples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="summaryJavaIlia.lesson09_19052023.RegExExamples" />
       <module name="javaPro" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homeWork.extra.youtube.stream.*" />
+          <option name="PATTERN" value="summaryJavaIlia.lesson09_19052023.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,12 +224,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Triples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="summaryJavaIlia.lesson08_12052023.Triples" />
+    <configuration name="StaticMath" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaProStanislav.test3.StaticMath" />
       <module name="javaPro" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="summaryJavaIlia.lesson08_12052023.*" />
+          <option name="PATTERN" value="javaProStanislav.test3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -146,11 +239,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Test4" />
-        <item itemvalue="Application.Test3" />
-        <item itemvalue="Application.RunnableTask" />
-        <item itemvalue="Application.Triples" />
-        <item itemvalue="Application.Tasks" />
+        <item itemvalue="Application.StaticMath" />
+        <item itemvalue="Application.CustomerPurchaseHistory" />
+        <item itemvalue="Application.RegExExamples" />
+        <item itemvalue="Application.FileWriterExample" />
+        <item itemvalue="Application.MatchesReader" />
       </list>
     </recent_temporary>
   </component>
@@ -265,7 +358,20 @@
       <workItem from="1683703906513" duration="16721000" />
       <workItem from="1683746004540" duration="3524000" />
       <workItem from="1683750196268" duration="632000" />
-      <workItem from="1683876409322" duration="14956000" />
+      <workItem from="1683876409322" duration="15190000" />
+      <workItem from="1683924673326" duration="675000" />
+      <workItem from="1683968594703" duration="4168000" />
+      <workItem from="1683974587304" duration="180000" />
+      <workItem from="1684072638228" duration="4923000" />
+      <workItem from="1684089874393" duration="1436000" />
+      <workItem from="1684096434101" duration="1719000" />
+      <workItem from="1684124286299" duration="1295000" />
+      <workItem from="1684135974453" duration="20430000" />
+      <workItem from="1684308846647" duration="22878000" />
+      <workItem from="1684351140348" duration="1407000" />
+      <workItem from="1684358906048" duration="1952000" />
+      <workItem from="1684403139497" duration="3194000" />
+      <workItem from="1684481649326" duration="11950000" />
     </task>
     <servers />
   </component>
