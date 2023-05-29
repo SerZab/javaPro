@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="334a97ca-3969-441a-81de-86d7ab75d518" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaPRO.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaPRO.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +56,7 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;advanced.settings&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
   &quot;keyToStringList&quot;: {
@@ -66,9 +67,6 @@
   }
 }</component>
   <component name="RecentsManager">
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="practiceMihail.lesson19_22052023" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/javaProStanislav/lesson09_05042023/compareObjects" />
       <recent name="$PROJECT_DIR$/src/javaProStanislav/lesson09_05042023" />
@@ -81,13 +79,13 @@
       <recent name="practiceJava.lesson08_24032023" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ExceptionTask2">
-    <configuration name="Example3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaProStanislav.lesson19_22052023.exeptions.Example3" />
+  <component name="RunManager" selected="Application.Task2">
+    <configuration name="Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homeWork.practice.hw07_24052023.Task1" />
       <module name="javaPro" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javaProStanislav.lesson19_22052023.exeptions.*" />
+          <option name="PATTERN" value="homeWork.practice.hw07_24052023.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,12 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExceptionTask1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practiceMihail.lesson19_22052023.ExceptionTask1" />
+    <configuration name="Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homeWork.practice.hw07_24052023.Task2" />
       <module name="javaPro" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="practiceMihail.lesson19_22052023.*" />
+          <option name="PATTERN" value="homeWork.practice.hw07_24052023.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,12 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExceptionTask2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practiceMihail.lesson19_22052023.ExceptionTask2" />
+    <configuration name="Task3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homeWork.practice.hw07_24052023.Task3" />
       <module name="javaPro" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="practiceMihail.lesson19_22052023.*" />
+          <option name="PATTERN" value="homeWork.practice.hw07_24052023.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,12 +119,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practiceMihail.lesson19_22052023.Main" />
+    <configuration name="Task4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homeWork.practice.hw07_24052023.Task4" />
       <module name="javaPro" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="practiceMihail.lesson19_22052023.*" />
+          <option name="PATTERN" value="homeWork.practice.hw07_24052023.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,12 +132,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ShopListApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaProStanislav.lesson19_22052023.lessoncode.ShopListApp" />
+    <configuration name="Task5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homeWork.practice.hw07_24052023.Task5" />
       <module name="javaPro" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javaProStanislav.lesson19_22052023.lessoncode.*" />
+          <option name="PATTERN" value="homeWork.practice.hw07_24052023.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -149,11 +147,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ExceptionTask2" />
-        <item itemvalue="Application.ExceptionTask1" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.ShopListApp" />
-        <item itemvalue="Application.Example3" />
+        <item itemvalue="Application.Task2" />
+        <item itemvalue="Application.Task1" />
+        <item itemvalue="Application.Task5" />
+        <item itemvalue="Application.Task4" />
+        <item itemvalue="Application.Task3" />
       </list>
     </recent_temporary>
   </component>
@@ -282,10 +280,6 @@
       <workItem from="1684358906048" duration="1952000" />
       <workItem from="1684403139497" duration="3194000" />
       <workItem from="1684481649326" duration="11950000" />
-      <workItem from="1684504486185" duration="1021000" />
-      <workItem from="1684508567431" duration="1272000" />
-      <workItem from="1684531462156" duration="574000" />
-      <workItem from="1684740688452" duration="12277000" />
     </task>
     <servers />
   </component>
