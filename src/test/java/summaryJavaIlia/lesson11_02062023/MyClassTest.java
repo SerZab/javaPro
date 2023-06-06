@@ -1,8 +1,5 @@
 package test.java.summaryJavaIlia.lesson11_02062023;
 
-
-
-
 import org.junit.BeforeClass;
 import org.junit.Test;
 import summaryJavaIlia.lesson11_02062023.MyClass;
