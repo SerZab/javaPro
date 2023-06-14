@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="334a97ca-3969-441a-81de-86d7ab75d518" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/javaProStanislav/lesson23_07062023/multiThreadung/MyFirstRunnableDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaProStanislav/lesson23_07062023/multiThreadung/MyFirstRunnableDemo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,13 +91,13 @@
       <recent name="practiceJava.lesson08_24032023" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SynchExample">
-    <configuration name="Counter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="summaryJavaIlia.lesson12_09062023.Counter" />
+  <component name="RunManager" selected="Application.ExchangerEx">
+    <configuration name="DeadLockEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practiceMihail.lesson24_12062023.DeadLockEx" />
       <module name="javaPro" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="summaryJavaIlia.lesson12_09062023.*" />
+          <option name="PATTERN" value="practiceMihail.lesson24_12062023.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,12 +105,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExceptionExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="summaryJavaIlia.lesson12_09062023.ExceptionExample" />
+    <configuration name="ExchangerEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practiceMihail.lesson24_12062023.ExchangerEx" />
       <module name="javaPro" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="summaryJavaIlia.lesson12_09062023.*" />
+          <option name="PATTERN" value="practiceMihail.lesson24_12062023.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,12 +118,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Prime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="summaryJavaIlia.lesson12_09062023.Prime" />
+    <configuration name="HelloWorldApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaProStanislav.lesson24_12062023.HelloWorldApp" />
       <module name="javaPro" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="summaryJavaIlia.lesson12_09062023.*" />
+          <option name="PATTERN" value="javaProStanislav.lesson24_12062023.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,12 +131,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SynchExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="summaryJavaIlia.lesson12_09062023.SynchExample" />
+    <configuration name="PriorityDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaProStanislav.lesson24_12062023.priorityExample.PriorityDemo1" />
       <module name="javaPro" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="summaryJavaIlia.lesson12_09062023.*" />
+          <option name="PATTERN" value="javaProStanislav.lesson24_12062023.priorityExample.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -144,12 +144,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThreadExamples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="summaryJavaIlia.lesson12_09062023.ThreadExamples" />
+    <configuration name="PriorityDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaProStanislav.lesson24_12062023.priorityExample.PriorityDemo2" />
       <module name="javaPro" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="summaryJavaIlia.lesson12_09062023.*" />
+          <option name="PATTERN" value="javaProStanislav.lesson24_12062023.priorityExample.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -159,11 +159,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SynchExample" />
-        <item itemvalue="Application.Counter" />
-        <item itemvalue="Application.ExceptionExample" />
-        <item itemvalue="Application.ThreadExamples" />
-        <item itemvalue="Application.Prime" />
+        <item itemvalue="Application.ExchangerEx" />
+        <item itemvalue="Application.DeadLockEx" />
+        <item itemvalue="Application.HelloWorldApp" />
+        <item itemvalue="Application.PriorityDemo2" />
+        <item itemvalue="Application.PriorityDemo1" />
       </list>
     </recent_temporary>
   </component>
@@ -306,7 +306,8 @@
       <workItem from="1686085211999" duration="77000" />
       <workItem from="1686123042082" duration="12219000" />
       <workItem from="1686257609740" duration="571000" />
-      <workItem from="1686295859998" duration="10707000" />
+      <workItem from="1686295859998" duration="10777000" />
+      <workItem from="1686554375450" duration="12509000" />
     </task>
     <servers />
   </component>

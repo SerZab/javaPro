@@ -5,7 +5,7 @@ public class MyFirstRunnableDemo {
     public static void main(String[] args) {
         System.out.println(Thread.currentThread().getName());
         for (int i = 0; i < 10; i++) {
-            Thread thread = new Thread(new MyRunnable());
+            MyFirstThread thread = new MyFirstThread();
             thread.start();
         }
     }
