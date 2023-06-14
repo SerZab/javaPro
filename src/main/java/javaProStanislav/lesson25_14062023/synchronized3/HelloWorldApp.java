@@ -1,21 +1,6 @@
-package javaProStanislav.lesson24_12062023.synchroniz;
+package javaProStanislav.lesson25_14062023.synchronized3;
 
-public class SynchronizedDemo1 {
-    /*
-
-    Модификатор доступа
-    synchronized return_type MethodName(parameters() {
-    ...}
-
-
-    Оператор:
-
-    synchronized(reference) {
-    //операторы которые мы хотим синхронизировать
-    // ....}
-
-     */
-
+public class HelloWorldApp {
     public static void main(String[] args) throws InterruptedException {
 
         Object objLock = new Object();
@@ -24,14 +9,20 @@ public class SynchronizedDemo1 {
 
             synchronized (objLock) {
 
-                System.out.println("Thread: " + Thread.currentThread().getName());
+                try {
+                    System.out.println("thread started");
+                    Thread.sleep(1000);
+                    System.out.println("thread finished");
+                } catch (InterruptedException e) {}
+
             }
+
         };
 
         Thread thread = new Thread(task);
         thread.start();
 
-       Thread.sleep(1);
+        //Thread.sleep(1);
 
         synchronized (objLock) {
             for (int i = 0; i < 8; i++) {
@@ -44,3 +35,6 @@ public class SynchronizedDemo1 {
 
     }
 }
+
+
+// программа для визуализации потоков JVisualVM или VisualVM

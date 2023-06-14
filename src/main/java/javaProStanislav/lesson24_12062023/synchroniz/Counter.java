@@ -7,8 +7,8 @@ public class Counter {
     private String clientName;
     private List<String> clients;
 
-    public synchronized void increment(){
-        counter++;
+    public void increment(){
+        synchronized (this) {counter++;}
     }
 
     public int getCounter() {

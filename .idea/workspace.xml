@@ -6,7 +6,14 @@
   <component name="ChangeListManager">
     <list default="true" id="334a97ca-3969-441a-81de-86d7ab75d518" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/javaProStanislav/lesson23_07062023/multiThreadung/MyFirstRunnableDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaProStanislav/lesson23_07062023/multiThreadung/MyFirstRunnableDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/javaProStanislav/lesson23_07062023/EmailValidator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/javaProStanislav/lesson24_12062023/daemon/ServiceUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaProStanislav/lesson24_12062023/daemon/ServiceUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/javaProStanislav/lesson24_12062023/synchroniz/Counter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaProStanislav/lesson24_12062023/synchroniz/Counter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/javaProStanislav/lesson24_12062023/synchroniz/SynchronizedDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaProStanislav/lesson24_12062023/synchroniz/SynchronizedDemo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practiceMihail/lesson21_31052023/Ex1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practiceMihail/lesson21_31052023/Ex1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practiceMihail/lesson24_12062023/CallableEx1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practiceMihail/lesson24_12062023/CallableEx1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practiceMihail/lesson24_12062023/DeadLockEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practiceMihail/lesson24_12062023/DeadLockEx.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practiceMihail/lesson24_12062023/ExchangerEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practiceMihail/lesson24_12062023/ExchangerEx.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,13 +98,13 @@
       <recent name="practiceJava.lesson08_24032023" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ExchangerEx">
-    <configuration name="DeadLockEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practiceMihail.lesson24_12062023.DeadLockEx" />
+  <component name="RunManager" selected="Application.ProductionApp">
+    <configuration name="ATM" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practiceMihail.lesson25_14062023.ATM" />
       <module name="javaPro" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="practiceMihail.lesson24_12062023.*" />
+          <option name="PATTERN" value="practiceMihail.lesson25_14062023.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,12 +112,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExchangerEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practiceMihail.lesson24_12062023.ExchangerEx" />
+    <configuration name="LE" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practiceMihail.lesson25_14062023.LE" />
       <module name="javaPro" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="practiceMihail.lesson24_12062023.*" />
+          <option name="PATTERN" value="practiceMihail.lesson25_14062023.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,12 +125,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HelloWorldApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaProStanislav.lesson24_12062023.HelloWorldApp" />
+    <configuration name="ProductionApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homeWork.practice.hw08_14062023.ProductionApp" />
       <module name="javaPro" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javaProStanislav.lesson24_12062023.*" />
+          <option name="PATTERN" value="homeWork.practice.hw08_14062023.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,12 +138,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PriorityDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaProStanislav.lesson24_12062023.priorityExample.PriorityDemo1" />
+    <configuration name="StoreApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaProStanislav.lesson25_14062023.synchronized4.StoreApp" />
       <module name="javaPro" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javaProStanislav.lesson24_12062023.priorityExample.*" />
+          <option name="PATTERN" value="javaProStanislav.lesson25_14062023.synchronized4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -144,12 +151,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PriorityDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaProStanislav.lesson24_12062023.priorityExample.PriorityDemo2" />
+    <configuration name="TP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practiceMihail.lesson25_14062023.TP" />
       <module name="javaPro" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javaProStanislav.lesson24_12062023.priorityExample.*" />
+          <option name="PATTERN" value="practiceMihail.lesson25_14062023.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -159,11 +166,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ExchangerEx" />
-        <item itemvalue="Application.DeadLockEx" />
-        <item itemvalue="Application.HelloWorldApp" />
-        <item itemvalue="Application.PriorityDemo2" />
-        <item itemvalue="Application.PriorityDemo1" />
+        <item itemvalue="Application.ProductionApp" />
+        <item itemvalue="Application.TP" />
+        <item itemvalue="Application.LE" />
+        <item itemvalue="Application.ATM" />
+        <item itemvalue="Application.StoreApp" />
       </list>
     </recent_temporary>
   </component>
@@ -308,6 +315,7 @@
       <workItem from="1686257609740" duration="571000" />
       <workItem from="1686295859998" duration="10777000" />
       <workItem from="1686554375450" duration="12509000" />
+      <workItem from="1686727095035" duration="13869000" />
     </task>
     <servers />
   </component>

@@ -6,27 +6,27 @@ import java.util.concurrent.Exchanger;
 
 public class ExchangerEx {
     public static void main(String[] args) {
-
         Exchanger<Action> exchanger = new Exchanger<>();
-        
         List<Action> P1LIST = new ArrayList<>();
         P1LIST.add(Action.SCISSORS);
         P1LIST.add(Action.STONE);
         P1LIST.add(Action.STONE);
 
         List<Action> P2LIST = new ArrayList<>();
-        P1LIST.add(Action.STONE);
-        P1LIST.add(Action.SCISSORS);
-        P1LIST.add(Action.STONE);
+        P2LIST.add(Action.STONE);
+        P2LIST.add(Action.SCISSORS);
+        P2LIST.add(Action.STONE);
 
         new Player("P1", P1LIST, exchanger);
         new Player("P2", P2LIST, exchanger);
     }
 }
+
 enum Action {
     STONE, SCISSORS, PAPER;
 }
-class Player extends Thread{
+
+class Player extends Thread {
     private String name;
     private List<Action> actionList;
     private Exchanger<Action> exchanger;
@@ -38,24 +38,23 @@ class Player extends Thread{
         this.start();
     }
 
-
-    private void getWinner(Action p1, Action p2){
-        if(p1 == Action.PAPER && p2 == Action.STONE ||
-                p1 == Action.SCISSORS && p2 == Action.PAPER ||
-                p1 == Action.STONE && p2 ==Action.SCISSORS) {
-            System.out.println("Winner is " + name);
+    private void getWinner(Action N, Action M) {
+        if (N == Action.PAPER && M == Action.STONE ||
+                N == Action.SCISSORS && M == Action.PAPER ||
+                N == Action.STONE && M == Action.SCISSORS) {
+            System.out.println("WINNER is: " + name);
         }
     }
 
     @Override
-    public void run(){
-        Action replay;
-        for (Action action : actionList){
-            try{
-                replay = exchanger.exchange(action);
-                getWinner(action, replay);
+    public void run() {
+        Action reply;
+        for (Action action : actionList) {
+            try {
+                reply = exchanger.exchange(action);
+                getWinner(action, reply);
                 Thread.sleep(300);
-            } catch (InterruptedException e){
+            } catch (InterruptedException e) {
                 throw new RuntimeException(e);
             }
         }

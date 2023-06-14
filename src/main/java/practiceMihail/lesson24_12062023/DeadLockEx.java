@@ -15,44 +15,42 @@ public class DeadLockEx {
 
         d1.start();
         d2.start();
-
     }
 }
 
 class DLE1 extends Thread {
-
     @Override
-    public void run(){
+    public void run() {
         System.out.println("*Try to catch LOCK_1*");
-        synchronized (DeadLockEx.LOCK_1){
-            System.out.println("DLE.class. LOCK_1 - was caught");
+        synchronized (DeadLockEx.LOCK_1) {
+            System.out.println("LOCK_1 - was caught");
             System.out.println("*Try to catch LOCK_2*");
             try {
                 Thread.sleep(100);
             } catch (InterruptedException e) {
                 throw new RuntimeException(e);
             }
-            synchronized (DeadLockEx.LOCK_2){
+            synchronized (DeadLockEx.LOCK_2) {
                 System.out.println("LOCK_1 and LOCK_2 were caught");
             }
         }
     }
 }
-class DLE2 extends Thread {
 
+class DLE2 extends Thread {
     @Override
-    public void run(){
+    public void run() {
         System.out.println("*Try to catch LOCK_2*");
-        synchronized (DeadLockEx.LOCK_2){
-            System.out.println("DLE.class. LOCK_2 - was caught");
-            System.out.println("*Try to catch LOCK_1*");
+        synchronized (DeadLockEx.LOCK_2) {
             try {
                 Thread.sleep(100);
             } catch (InterruptedException e) {
                 throw new RuntimeException(e);
             }
-            synchronized (DeadLockEx.LOCK_1){
-                System.out.println("LOCK_1 and LOCK_1 were caught");
+            System.out.println("LOCK_2 - was caught");
+            System.out.println("*Try to catch LOCK_1*");
+            synchronized (DeadLockEx.LOCK_1) {
+                System.out.println("LOCK_1 and LOCK_2 were caught");
             }
         }
     }

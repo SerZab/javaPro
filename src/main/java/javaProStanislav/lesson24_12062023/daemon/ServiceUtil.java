@@ -13,6 +13,5 @@ public class ServiceUtil {
 
         thread2.setDaemon(true);
         thread2.start();
-        
     }
 }
