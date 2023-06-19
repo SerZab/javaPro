@@ -16,7 +16,7 @@ public class Production {
 
     public synchronized void deliver(){
         if (car == 10) {
-            System.out.println("Доставка в магазин " + car+ " авто");
+            System.out.println("Доставка в магазин " + car + " авто");
         }
         notify();
     }
