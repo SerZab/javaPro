@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="334a97ca-3969-441a-81de-86d7ab75d518" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/homeWork/practice/hw08_14062023/Production.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homeWork/practice/hw08_14062023/Production.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/javaProStanislav/lesson23_07062023/multiThreadung/CarApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaProStanislav/lesson23_07062023/multiThreadung/CarApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/javaProStanislav/lesson24_12062023/interrupted/interrupt/Example4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaProStanislav/lesson24_12062023/interrupted/interrupt/Example4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/javaProStanislav/lesson24_12062023/interrupted/interrupt/Example6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaProStanislav/lesson24_12062023/interrupted/interrupt/Example6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/practiceMihail/lesson20_24052023/Ex3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practiceMihail/lesson20_24052023/Ex3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/practiceMihail/lesson25_14062023/TP.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practiceMihail/lesson25_14062023/TP.java" afterDir="false" />
-    </list>
+    <list default="true" id="334a97ca-3969-441a-81de-86d7ab75d518" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -316,7 +308,7 @@
       <workItem from="1686727095035" duration="14019000" />
       <workItem from="1686900688447" duration="10989000" />
       <workItem from="1687077009274" duration="7000" />
-      <workItem from="1687158617107" duration="15822000" />
+      <workItem from="1687158617107" duration="15957000" />
     </task>
     <servers />
   </component>
