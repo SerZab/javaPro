@@ -30,7 +30,6 @@ public class Philosophers {
             this.fork1 = fork1;
             this.fork2 = fork2;
         }
-
         @Override
         public String toString() {
             return "Philosopher{" + "name='" + name + '\'' + '}';
@@ -42,16 +41,18 @@ public class Philosophers {
                 think();
             }
         }
-
         public void snack() {
-            synchronized (fork1) {
-                synchronized (fork2) {
-                    eatSpaghetti(fork1);
-                    eatSpaghetti(fork2);
+            // Определяем порядок захвата вилок
+            Fork firstFork = fork1.id < fork2.id ? fork1 : fork2;
+            Fork secondFork = fork1.id < fork2.id ? fork2 : fork1;
+
+            synchronized (firstFork) {
+                synchronized (secondFork) {
+                    eatSpaghetti(firstFork);
+                    eatSpaghetti(secondFork);
                 }
             }
         }
-
         public void think() {
             try {
                 System.err.println(this + " thinks about important things... ");
@@ -69,21 +70,26 @@ public class Philosophers {
                 e.printStackTrace();
             }
         }
-
     }
 
     public static void main(String[] args) {
         Fork fork1 = new Fork(1);
         Fork fork2 = new Fork(2);
         Fork fork3 = new Fork(3);
+        Fork fork4 = new Fork(4);
+        Fork fork5 = new Fork(5);
 
         Philosopher philosopher1 = new Philosopher("Plato", fork1, fork2);
         Philosopher philosopher2 = new Philosopher("Socrates", fork2, fork3);
-        Philosopher philosopher3 = new Philosopher("Aristotle", fork3, fork1);
+        Philosopher philosopher3 = new Philosopher("Aristotle", fork3, fork4);
+        Philosopher philosopher4 = new Philosopher("Pythagoras", fork4, fork5);
+        Philosopher philosopher5 = new Philosopher("Diogenes", fork5, fork1);
 
         new Thread(philosopher1::atTheTable).start();
         new Thread(philosopher2::atTheTable).start();
         new Thread(philosopher3::atTheTable).start();
+        new Thread(philosopher4::atTheTable).start();
+        new Thread(philosopher5::atTheTable).start();
     }
 
 }

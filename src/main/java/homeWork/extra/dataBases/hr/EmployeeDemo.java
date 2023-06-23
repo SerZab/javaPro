@@ -1,13 +1,21 @@
 package homeWork.extra.dataBases.hr;
 
+import javaProStanislav.lesson05_22032023.arrayList.Person;
+
 import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.sql.Statement;
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.List;
+import java.util.Map;
 
 public class EmployeeDemo {
     public static void main(String[] args) {
         String q = "select * from employees";
         ConnectHR connectHR = new ConnectHR();
+        Map<Integer, Employees> employees = new HashMap<>();
+        int count = 1;
         try {
             Statement statement = connectHR.getConnection().createStatement();
             ResultSet resultSet = statement.executeQuery(q);
@@ -19,15 +27,20 @@ public class EmployeeDemo {
                 employee.setLastName(resultSet.getString(3));
                 employee.setEmail(resultSet.getString(4));
                 employee.setPhone(resultSet.getString(5));
-                employee.setJobId(resultSet.getString(6));
-                employee.setSalary(resultSet.getDouble(7));
-                employee.setCommission(resultSet.getDouble(8));
-                employee.setManagerId(resultSet.getInt(9));
-                employee.setDepartmentId(resultSet.getInt(10));
-                System.out.println(employee);
+                employee.setDate(resultSet.getDate(6));
+                employee.setJobId(resultSet.getString(7));
+                employee.setSalary(resultSet.getDouble(8));
+                employee.setCommission(resultSet.getDouble(9));
+                employee.setManagerId(resultSet.getInt(10));
+                employee.setDepartmentId(resultSet.getInt(11));
+                employees.put(count, employee);
+                count++;
             }
         } catch (SQLException e) {
             throw new RuntimeException(e);
+        }
+        for (Map.Entry<Integer, Employees> entry : employees.entrySet()){
+            System.out.println(entry.getKey() + " : " + entry.getValue());
         }
     }
 }

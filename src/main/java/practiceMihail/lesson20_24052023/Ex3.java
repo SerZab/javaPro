@@ -22,6 +22,6 @@ public class Ex3 extends Thread{
         thread.b = false;
         thread.join();
 
-        System.out.println("PhaserExample end");
+        System.out.println("PhaserExample1 end");
     }
 }

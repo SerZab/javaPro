@@ -4,11 +4,10 @@ import java.util.concurrent.Phaser;
 
 public class PhaserExample1 {
     public static void main(String[] args) {
-        int numberOfThreads = 3;
 
-        Phaser phaser = new Phaser(numberOfThreads);
+        Phaser phaser = new Phaser(3);
 
-        for (int i = 0; i < numberOfThreads; i++) {
+        for (int i = 0; i < 3; i++) {
             Thread thread = new Thread(new Worker(i, phaser));
             thread.start();
         }

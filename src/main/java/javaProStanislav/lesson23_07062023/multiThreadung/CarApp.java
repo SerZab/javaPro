@@ -8,6 +8,6 @@ public class CarApp {
         bmw.start();
         Thread.sleep(200);
         System.out.println("Method continue exeption... " +
-                "PhaserExample method is executing by thread " + Thread.currentThread().getName());
+                "PhaserExample1 method is executing by thread " + Thread.currentThread().getName());
     }
 }

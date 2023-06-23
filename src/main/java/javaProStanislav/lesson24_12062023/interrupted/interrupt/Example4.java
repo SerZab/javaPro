@@ -28,7 +28,7 @@ public class Example4 {
         thread.start();
         Thread.sleep(10000);
         thread.interrupt();
-        System.out.println("PhaserExample thread is finished ...");
+        System.out.println("PhaserExample1 thread is finished ...");
 
     }
 }

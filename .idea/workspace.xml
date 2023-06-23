@@ -4,7 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="334a97ca-3969-441a-81de-86d7ab75d518" name="Changes" comment="" />
+    <list default="true" id="334a97ca-3969-441a-81de-86d7ab75d518" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/a6068620-0771-410b-ba27-5781dcd50a7c.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/a6068620-0771-410b-ba27-5781dcd50a7c.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/homeWork/extra/dataBases/hr/EmployeeDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homeWork/extra/dataBases/hr/EmployeeDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/homeWork/extra/dataBases/hr/Employees.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homeWork/extra/dataBases/hr/Employees.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/javaProStanislav/lesson23_07062023/multiThreadung/CarApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaProStanislav/lesson23_07062023/multiThreadung/CarApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/javaProStanislav/lesson24_12062023/interrupted/interrupt/Example4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaProStanislav/lesson24_12062023/interrupted/interrupt/Example4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/javaProStanislav/lesson24_12062023/interrupted/interrupt/Example6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaProStanislav/lesson24_12062023/interrupted/interrupt/Example6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practiceMihail/lesson20_24052023/Ex3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practiceMihail/lesson20_24052023/Ex3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practiceMihail/lesson25_14062023/TP.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practiceMihail/lesson25_14062023/TP.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practiceMihail/lesson26_19062023/PhaserExample1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practiceMihail/lesson26_19062023/PhaserExample1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/summaryJavaIlia/lesson13_16062023/Philosophers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/summaryJavaIlia/lesson13_16062023/Philosophers.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -88,13 +102,13 @@
       <recent name="practiceJava.lesson08_24032023" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ConcHashMap">
-    <configuration name="ConcHashMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practiceMihail.lesson26_19062023.ConcHashMap" />
+  <component name="RunManager" selected="Application.CustomerDemo">
+    <configuration name="ClientDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homeWork.extra.dataBases.hr.ClientDemo" />
       <module name="javaPro" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="practiceMihail.lesson26_19062023.*" />
+          <option name="PATTERN" value="homeWork.extra.dataBases.hr.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,12 +116,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PhaserExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practiceMihail.lesson26_19062023.PhaserExample" />
+    <configuration name="CountriesDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homeWork.extra.dataBases.hr.CountriesDemo" />
       <module name="javaPro" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="practiceMihail.lesson26_19062023.*" />
+          <option name="PATTERN" value="homeWork.extra.dataBases.hr.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,12 +129,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PhaserExample1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practiceMihail.lesson26_19062023.PhaserExample1" />
+    <configuration name="CustomerDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homeWork.extra.dataBases.hr.CustomerDemo" />
       <module name="javaPro" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="practiceMihail.lesson26_19062023.*" />
+          <option name="PATTERN" value="homeWork.extra.dataBases.hr.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,12 +142,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProductionApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homeWork.practice.hw08_14062023.ProductionApp" />
+    <configuration name="EmployeeDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homeWork.extra.dataBases.hr.EmployeeDemo" />
       <module name="javaPro" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homeWork.practice.hw08_14062023.*" />
+          <option name="PATTERN" value="homeWork.extra.dataBases.hr.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -141,12 +155,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="javaProStanislav.lesson26_19062023.concurrent.exchanger2.DeliveryExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaProStanislav.lesson26_19062023.concurrent.exchanger2.DeliveryExample" />
+    <configuration name="JobsDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homeWork.extra.dataBases.hr.JobsDemo" />
       <module name="javaPro" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javaProStanislav.lesson26_19062023.concurrent.exchanger2.*" />
+          <option name="PATTERN" value="homeWork.extra.dataBases.hr.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -156,11 +170,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ConcHashMap" />
-        <item itemvalue="Application.ProductionApp" />
-        <item itemvalue="Application.PhaserExample1" />
-        <item itemvalue="Application.PhaserExample" />
-        <item itemvalue="Application.javaProStanislav.lesson26_19062023.concurrent.exchanger2.DeliveryExample" />
+        <item itemvalue="Application.CustomerDemo" />
+        <item itemvalue="Application.ClientDemo" />
+        <item itemvalue="Application.EmployeeDemo" />
+        <item itemvalue="Application.JobsDemo" />
+        <item itemvalue="Application.CountriesDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -309,6 +323,12 @@
       <workItem from="1686900688447" duration="10989000" />
       <workItem from="1687077009274" duration="7000" />
       <workItem from="1687158617107" duration="15957000" />
+      <workItem from="1687246164801" duration="275000" />
+      <workItem from="1687332407164" duration="82000" />
+      <workItem from="1687333579544" duration="9683000" />
+      <workItem from="1687345396747" duration="8593000" />
+      <workItem from="1687418170451" duration="2003000" />
+      <workItem from="1687505352629" duration="12789000" />
     </task>
     <servers />
   </component>

@@ -13,7 +13,7 @@ public class Example6 {
 
         thread.start();
         // прервем поток через 5 сек
-        System.out.println("PhaserExample thread sleep 5 sec ");
+        System.out.println("PhaserExample1 thread sleep 5 sec ");
         Thread.sleep(5000);
 
         System.out.println(thread.getState());
