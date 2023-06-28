@@ -1,166 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="AutoImportSettings">
-    <option name="autoReloadType" value="SELECTIVE" />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="334a97ca-3969-441a-81de-86d7ab75d518" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/a6068620-0771-410b-ba27-5781dcd50a7c.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/a6068620-0771-410b-ba27-5781dcd50a7c.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/homeWork/extra/dataBases/hr/EmployeeDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homeWork/extra/dataBases/hr/EmployeeDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/homeWork/extra/dataBases/hr/Employees.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homeWork/extra/dataBases/hr/Employees.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/javaProStanislav/lesson23_07062023/multiThreadung/CarApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaProStanislav/lesson23_07062023/multiThreadung/CarApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/javaProStanislav/lesson24_12062023/interrupted/interrupt/Example4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaProStanislav/lesson24_12062023/interrupted/interrupt/Example4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/javaProStanislav/lesson24_12062023/interrupted/interrupt/Example6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaProStanislav/lesson24_12062023/interrupted/interrupt/Example6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/practiceMihail/lesson20_24052023/Ex3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practiceMihail/lesson20_24052023/Ex3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/practiceMihail/lesson25_14062023/TP.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practiceMihail/lesson25_14062023/TP.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/practiceMihail/lesson26_19062023/PhaserExample1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practiceMihail/lesson26_19062023/PhaserExample1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/summaryJavaIlia/lesson13_16062023/Philosophers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/summaryJavaIlia/lesson13_16062023/Philosophers.java" afterDir="false" />
-    </list>
+    <list default="true" id="13f68ddc-689a-4dc7-82d4-1a73626617c8" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Interface" />
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="MarkdownSettingsMigration">
-    <option name="stateVersion" value="1" />
-  </component>
-  <component name="MavenImportPreferences">
-    <option name="generalSettings">
-      <MavenGeneralSettings>
-        <option name="useMavenConfig" value="true" />
-      </MavenGeneralSettings>
-    </option>
-  </component>
-  <component name="ProjectId" id="2NSEkC93CPt4F5DeK8vybcbWP4O" />
-  <component name="ProjectLevelVcsManager">
-    <OptionsSetting value="false" id="Update" />
-    <ConfirmationsSetting value="1" id="Add" />
-  </component>
+  <component name="ProjectId" id="2RpAoI0etgFsr5r5d3sXuiatv2G" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
-    &quot;ASKED_MARK_IGNORED_FILES_AS_EXCLUDED&quot;: &quot;true&quot;,
-    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;extract.method.default.visibility&quot;: &quot;private&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Volumes/GoogleDrive/Мой диск/Telran/Java/JavaPRO/javaPro&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.47586206&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
-  },
-  &quot;keyToStringList&quot;: {
-    &quot;DatabaseDriversLRU&quot;: [
-      &quot;postgresql&quot;,
-      &quot;mysql&quot;
-    ]
   }
 }</component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/javaProStanislav/lesson09_05042023/compareObjects" />
-      <recent name="$PROJECT_DIR$/src/javaProStanislav/lesson09_05042023" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/main/java" />
-      <recent name="$PROJECT_DIR$/src/javaProStanislav/lesson11_19042023/graph" />
-    </key>
-    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
-      <recent name="javaProStanislav.lesson23_07062023.mockito2" />
-      <recent name="javaProStanislav.lesson23_07062023" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="javaProStanislav.lesson08_03042023.setExample" />
-      <recent name="practiceJava.lesson08_24032023" />
-    </key>
-  </component>
-  <component name="RunManager" selected="Application.CustomerDemo">
-    <configuration name="ClientDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homeWork.extra.dataBases.hr.ClientDemo" />
+  <component name="RunManager">
+    <configuration name="TaskApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaProStanislav.lesson28_26062023.application.TaskApp" />
       <module name="javaPro" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homeWork.extra.dataBases.hr.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CountriesDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homeWork.extra.dataBases.hr.CountriesDemo" />
-      <module name="javaPro" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="homeWork.extra.dataBases.hr.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CustomerDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homeWork.extra.dataBases.hr.CustomerDemo" />
-      <module name="javaPro" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="homeWork.extra.dataBases.hr.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="EmployeeDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homeWork.extra.dataBases.hr.EmployeeDemo" />
-      <module name="javaPro" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="homeWork.extra.dataBases.hr.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="JobsDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homeWork.extra.dataBases.hr.JobsDemo" />
-      <module name="javaPro" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="homeWork.extra.dataBases.hr.*" />
+          <option name="PATTERN" value="javaProStanislav.lesson28_26062023.application.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -170,180 +39,20 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CustomerDemo" />
-        <item itemvalue="Application.ClientDemo" />
-        <item itemvalue="Application.EmployeeDemo" />
-        <item itemvalue="Application.JobsDemo" />
-        <item itemvalue="Application.CountriesDemo" />
+        <item itemvalue="Application.TaskApp" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="334a97ca-3969-441a-81de-86d7ab75d518" name="Changes" comment="" />
-      <created>1679649223386</created>
+      <changelist id="13f68ddc-689a-4dc7-82d4-1a73626617c8" name="Changes" comment="" />
+      <created>1687936826593</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1679649223386</updated>
-      <workItem from="1679649224606" duration="8281000" />
-      <workItem from="1679667276753" duration="1160000" />
-      <workItem from="1679668489038" duration="514000" />
-      <workItem from="1679670603339" duration="74000" />
-      <workItem from="1679670806317" duration="185000" />
-      <workItem from="1679857335666" duration="2922000" />
-      <workItem from="1679861077694" duration="191000" />
-      <workItem from="1679899495770" duration="25576000" />
-      <workItem from="1679937732385" duration="642000" />
-      <workItem from="1680075098293" duration="10976000" />
-      <workItem from="1680210595521" duration="1763000" />
-      <workItem from="1680295118284" duration="1457000" />
-      <workItem from="1680368026164" duration="85000" />
-      <workItem from="1680371434446" duration="19000" />
-      <workItem from="1680382449664" duration="187000" />
-      <workItem from="1680507059827" duration="13819000" />
-      <workItem from="1680534088138" duration="6341000" />
-      <workItem from="1680552158109" duration="244000" />
-      <workItem from="1680552475608" duration="279000" />
-      <workItem from="1680556346709" duration="75000" />
-      <workItem from="1680559482418" duration="48000" />
-      <workItem from="1680572225921" duration="189000" />
-      <workItem from="1680572518841" duration="232000" />
-      <workItem from="1680572840184" duration="128000" />
-      <workItem from="1680573079929" duration="73000" />
-      <workItem from="1680573201565" duration="17000" />
-      <workItem from="1680573242136" duration="49000" />
-      <workItem from="1680625722438" duration="2698000" />
-      <workItem from="1680808958230" duration="80000" />
-      <workItem from="1680858592653" duration="2629000" />
-      <workItem from="1680878063876" duration="148000" />
-      <workItem from="1680878246139" duration="6502000" />
-      <workItem from="1680899097938" duration="2177000" />
-      <workItem from="1680941352449" duration="7642000" />
-      <workItem from="1680984255888" duration="3469000" />
-      <workItem from="1681034109080" duration="1407000" />
-      <workItem from="1681040754446" duration="4736000" />
-      <workItem from="1681164582970" duration="1197000" />
-      <workItem from="1681305729588" duration="159000" />
-      <workItem from="1681333876298" duration="738000" />
-      <workItem from="1681369619202" duration="8127000" />
-      <workItem from="1681473640870" duration="39000" />
-      <workItem from="1681487569554" duration="978000" />
-      <workItem from="1681488557731" duration="1785000" />
-      <workItem from="1681500136245" duration="535000" />
-      <workItem from="1681500676487" duration="74000" />
-      <workItem from="1681500755482" duration="145000" />
-      <workItem from="1681500912391" duration="4283000" />
-      <workItem from="1681542201277" duration="20771000" />
-      <workItem from="1681573392303" duration="406000" />
-      <workItem from="1681574607759" duration="678000" />
-      <workItem from="1681586092590" duration="802000" />
-      <workItem from="1681591122526" duration="4516000" />
-      <workItem from="1681717025059" duration="14931000" />
-      <workItem from="1681735203948" duration="484000" />
-      <workItem from="1681737248655" duration="2990000" />
-      <workItem from="1681889561537" duration="14221000" />
-      <workItem from="1681931845751" duration="271000" />
-      <workItem from="1682062319343" duration="11317000" />
-      <workItem from="1682321752758" duration="18566000" />
-      <workItem from="1682358011134" duration="247000" />
-      <workItem from="1682358262638" duration="4967000" />
-      <workItem from="1682376102406" duration="22000" />
-      <workItem from="1682494423841" duration="15373000" />
-      <workItem from="1682523829574" duration="917000" />
-      <workItem from="1682542265448" duration="3935000" />
-      <workItem from="1682595543159" duration="2035000" />
-      <workItem from="1682667193604" duration="6951000" />
-      <workItem from="1682674968577" duration="1051000" />
-      <workItem from="1682676058788" duration="1000" />
-      <workItem from="1682676069831" duration="55000" />
-      <workItem from="1682676311286" duration="122000" />
-      <workItem from="1682676942274" duration="5493000" />
-      <workItem from="1682686513558" duration="7000" />
-      <workItem from="1682688885812" duration="752000" />
-      <workItem from="1682770642688" duration="446000" />
-      <workItem from="1682882633548" duration="2833000" />
-      <workItem from="1682885619777" duration="554000" />
-      <workItem from="1682933562571" duration="2880000" />
-      <workItem from="1682956445753" duration="4344000" />
-      <workItem from="1683012611043" duration="1000" />
-      <workItem from="1683029817154" duration="71000" />
-      <workItem from="1683099671847" duration="17041000" />
-      <workItem from="1683117672556" duration="158000" />
-      <workItem from="1683117833418" duration="29000" />
-      <workItem from="1683138190323" duration="179000" />
-      <workItem from="1683138692850" duration="620000" />
-      <workItem from="1683147743429" duration="65000" />
-      <workItem from="1683199547662" duration="691000" />
-      <workItem from="1683271868178" duration="12899000" />
-      <workItem from="1683285831072" duration="29000" />
-      <workItem from="1683356662116" duration="5691000" />
-      <workItem from="1683390948454" duration="3906000" />
-      <workItem from="1683399375346" duration="6000" />
-      <workItem from="1683399413113" duration="5701000" />
-      <workItem from="1683448084620" duration="12835000" />
-      <workItem from="1683474834286" duration="9454000" />
-      <workItem from="1683530852783" duration="18461000" />
-      <workItem from="1683577616049" duration="3157000" />
-      <workItem from="1683616761870" duration="111000" />
-      <workItem from="1683703906513" duration="16721000" />
-      <workItem from="1683746004540" duration="3524000" />
-      <workItem from="1683750196268" duration="632000" />
-      <workItem from="1683876409322" duration="15190000" />
-      <workItem from="1683924673326" duration="675000" />
-      <workItem from="1683968594703" duration="4168000" />
-      <workItem from="1683974587304" duration="180000" />
-      <workItem from="1684072638228" duration="4923000" />
-      <workItem from="1684089874393" duration="1436000" />
-      <workItem from="1684096434101" duration="1719000" />
-      <workItem from="1684124286299" duration="1295000" />
-      <workItem from="1684135974453" duration="20430000" />
-      <workItem from="1684308846647" duration="22878000" />
-      <workItem from="1684351140348" duration="1407000" />
-      <workItem from="1684358906048" duration="1952000" />
-      <workItem from="1684403139497" duration="3194000" />
-      <workItem from="1684481649326" duration="11950000" />
-      <workItem from="1685960595812" duration="702000" />
-      <workItem from="1686058521590" duration="1928000" />
-      <workItem from="1686060476492" duration="493000" />
-      <workItem from="1686060975686" duration="2884000" />
-      <workItem from="1686066264819" duration="1991000" />
-      <workItem from="1686068299535" duration="617000" />
-      <workItem from="1686068925394" duration="588000" />
-      <workItem from="1686069583930" duration="1023000" />
-      <workItem from="1686071306671" duration="182000" />
-      <workItem from="1686071492947" duration="644000" />
-      <workItem from="1686084499876" duration="593000" />
-      <workItem from="1686085211999" duration="77000" />
-      <workItem from="1686123042082" duration="12219000" />
-      <workItem from="1686257609740" duration="571000" />
-      <workItem from="1686295859998" duration="10777000" />
-      <workItem from="1686554375450" duration="12509000" />
-      <workItem from="1686727095035" duration="14019000" />
-      <workItem from="1686900688447" duration="10989000" />
-      <workItem from="1687077009274" duration="7000" />
-      <workItem from="1687158617107" duration="15957000" />
-      <workItem from="1687246164801" duration="275000" />
-      <workItem from="1687332407164" duration="82000" />
-      <workItem from="1687333579544" duration="9683000" />
-      <workItem from="1687345396747" duration="8593000" />
-      <workItem from="1687418170451" duration="2003000" />
-      <workItem from="1687505352629" duration="12789000" />
+      <updated>1687936826593</updated>
+      <workItem from="1687936829453" duration="16000" />
     </task>
     <servers />
-  </component>
-  <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="3" />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
   </component>
 </project>

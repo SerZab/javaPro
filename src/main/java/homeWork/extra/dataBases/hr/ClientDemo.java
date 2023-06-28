@@ -30,7 +30,7 @@ public class ClientDemo {
         } catch (SQLException e) {
             throw new RuntimeException(e);
         }
-        for (Map.Entry<Integer,Client> entry : map.entrySet()){
+        for (var entry : map.entrySet()){
             System.out.println(entry.getKey() + " : " + entry.getValue());
         }
     }
