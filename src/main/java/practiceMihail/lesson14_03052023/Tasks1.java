@@ -24,7 +24,7 @@ public class Tasks1 {
                     .max(Comparator.comparingInt(String::length))
                     .orElse(null));
 
-        // Дан список объектов класса Person, у которых есть поля name и age. Напишите программу, которая находит все людей
+        // Дан список объектов класса Persons, у которых есть поля name и age. Напишите программу, которая находит все людей
         // старше 25 лет и сортирует их по имени в алфавитном порядке.
 
         List<Person> people = Arrays.asList(

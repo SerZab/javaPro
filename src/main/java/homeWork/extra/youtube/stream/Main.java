@@ -6,13 +6,13 @@ import java.util.List;
 public class Main {
     public static void main(String[] args) {
         List<Person> persons = Data.getPersons();
-//        for (Person person : persons){
+//        for (Persons person : persons){
 //            System.out.println(person);
 //        }
-//        List<Person> persons1 = persons.stream()
+//        List<Persons> persons1 = persons.stream()
 //                .filter(p -> p.getAge()>30)
 //                .collect(Collectors.toList());
-//        for (Person person : persons1){
+//        for (Persons person : persons1){
 //            System.out.println(person);
 //        }
 //        long count = persons.stream()

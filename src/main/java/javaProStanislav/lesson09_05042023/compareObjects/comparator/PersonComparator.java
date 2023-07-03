@@ -26,7 +26,7 @@ public class PersonComparator{
 
     @Override
     public String toString() {
-        return "Person{" +
+        return "Persons{" +
                 "name='" + name + '\'' +
                 ", id=" + id +
                 '}';

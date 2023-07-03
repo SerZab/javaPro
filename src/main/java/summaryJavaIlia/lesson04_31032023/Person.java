@@ -22,7 +22,7 @@ public class Person implements Comparable<Person> {
 
     @Override
     public String toString() {
-        return "Person{" + "name='" + name + '\'' + ", surname='" + surname + '\'' + ", age=" + age + '}';
+        return "Persons{" + "name='" + name + '\'' + ", surname='" + surname + '\'' + ", age=" + age + '}';
     }
 
     @Override

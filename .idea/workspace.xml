@@ -1,35 +1,159 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="13f68ddc-689a-4dc7-82d4-1a73626617c8" name="Changes" comment="" />
+    <list default="true" id="13f68ddc-689a-4dc7-82d4-1a73626617c8" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/homeWork/extra/extraHomeWork/Task2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homeWork/extra/extraHomeWork/Task2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/homeWork/extra/youtube/stream/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homeWork/extra/youtube/stream/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/homeWork/extra/youtube/stream/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homeWork/extra/youtube/stream/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/homeWork/javaPro/hw01_03052023/Tasks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homeWork/javaPro/hw01_03052023/Tasks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/javaProStanislav/lesson03_15032023/musician/PopMusician.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaProStanislav/lesson03_15032023/musician/PopMusician.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/javaProStanislav/lesson05_22032023/arrayList/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaProStanislav/lesson05_22032023/arrayList/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/javaProStanislav/lesson08_03042023/hashCodeExample/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaProStanislav/lesson08_03042023/hashCodeExample/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/javaProStanislav/lesson08_03042023/setExample/Person1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaProStanislav/lesson08_03042023/setExample/Person1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/javaProStanislav/lesson09_05042023/compareObjects/comparator/PersonComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaProStanislav/lesson09_05042023/compareObjects/comparator/PersonComparator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/javaProStanislav/lesson09_05042023/compareObjects/treeSet/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaProStanislav/lesson09_05042023/compareObjects/treeSet/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/javaProStanislav/lesson10_17042023/optional/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaProStanislav/lesson10_17042023/optional/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/javaProStanislav/lesson16_10052023/streamPractice/sortRevers/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaProStanislav/lesson16_10052023/streamPractice/sortRevers/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/javaProStanislav/lesson20_24052023/Optional/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaProStanislav/lesson20_24052023/Optional/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/javaProStanislav/lesson21_31052023/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaProStanislav/lesson21_31052023/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/javaProStanislav/lesson23_07062023/mockito2/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaProStanislav/lesson23_07062023/mockito2/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/javaProStanislav/lesson29_28062023/application2/repository/TaskInMemoryRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practiceMihail/lesson12_24042023/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practiceMihail/lesson12_24042023/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practiceMihail/lesson13_26042023/Task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practiceMihail/lesson13_26042023/Task1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practiceMihail/lesson14_03052023/Tasks1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practiceMihail/lesson14_03052023/Tasks1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practiceMihail/lesson15_08052023/zhestStreamApi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practiceMihail/lesson15_08052023/zhestStreamApi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practiceMihail/lesson30_03062023/spring1/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practiceMihail/lesson30_03062023/spring1/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practiceMihail/lesson30_03062023/spring1/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practiceMihail/lesson30_03062023/spring1/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/summaryJavaIlia/lesson04_31032023/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/summaryJavaIlia/lesson04_31032023/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/javaProStanislav/lesson23_07062023/mockito2/EmailValidatorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/javaProStanislav/lesson23_07062023/mockito2/PayRollTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/javaProStanislav/lesson23_07062023/mockito2/PayRollTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javaProStanislav/lesson03_15032023/musician/PopMusician.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/javaProStanislav/lesson03_15032023/musician/PopMusician.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javaProStanislav/lesson05_22032023/arrayList/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/javaProStanislav/lesson05_22032023/arrayList/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javaProStanislav/lesson08_03042023/hashCodeExample/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/javaProStanislav/lesson08_03042023/hashCodeExample/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javaProStanislav/lesson08_03042023/setExample/Person1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/javaProStanislav/lesson08_03042023/setExample/Person1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/summaryJavaIlia/lesson04_31032023/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/summaryJavaIlia/lesson04_31032023/Person.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="AnnotationType" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
   <component name="ProjectId" id="2RpAoI0etgFsr5r5d3sXuiatv2G" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
+    ]
   }
 }</component>
-  <component name="RunManager">
-    <configuration name="TaskApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaProStanislav.lesson28_26062023.application.TaskApp" />
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn verify" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Test">
+    <configuration name="AnnotationEx1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaProStanislav.lesson30_03072023.annotation.annotation1.AnnotationEx1" />
       <module name="javaPro" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javaProStanislav.lesson28_26062023.application.*" />
+          <option name="PATTERN" value="javaProStanislav.lesson30_03072023.annotation.annotation1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GreetingAnnotation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaProStanislav.lesson30_03072023.annotation.annotation3.GreetingAnnotation" />
+      <module name="javaPro" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javaProStanislav.lesson30_03072023.annotation.annotation3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaProStanislav.lesson30_03072023.annotation.annotation2.Main" />
+      <module name="javaPro" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javaProStanislav.lesson30_03072023.annotation.annotation2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practiceMihail.lesson30_03062023.spring1.Test" />
+      <module name="javaPro" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practiceMihail.lesson30_03062023.spring1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCustomAnnotationEmployee" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaProStanislav.lesson30_03072023.annotation.selfMaidAnnotation2.TestCustomAnnotationEmployee" />
+      <module name="javaPro" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javaProStanislav.lesson30_03072023.annotation.selfMaidAnnotation2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -39,7 +163,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TaskApp" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.TestCustomAnnotationEmployee" />
+        <item itemvalue="Application.GreetingAnnotation" />
+        <item itemvalue="Application.AnnotationEx1" />
+        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -52,7 +180,25 @@
       <option name="presentableId" value="Default" />
       <updated>1687936826593</updated>
       <workItem from="1687936829453" duration="16000" />
+      <workItem from="1687937431657" duration="15883000" />
+      <workItem from="1687978991831" duration="3495000" />
+      <workItem from="1687982551594" duration="395000" />
+      <workItem from="1688041591922" duration="46000" />
+      <workItem from="1688041694177" duration="251000" />
+      <workItem from="1688042290794" duration="5128000" />
+      <workItem from="1688072944824" duration="1235000" />
+      <workItem from="1688074654995" duration="643000" />
+      <workItem from="1688110067003" duration="593000" />
+      <workItem from="1688110901798" duration="8230000" />
+      <workItem from="1688155511237" duration="570000" />
+      <workItem from="1688206505150" duration="206000" />
+      <workItem from="1688286341984" duration="2080000" />
+      <workItem from="1688307226468" duration="5759000" />
+      <workItem from="1688369209231" duration="12142000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
 </project>

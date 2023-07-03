@@ -17,7 +17,7 @@ public class Employee {
 
     @Override
     public String toString() {
-        return "Employee{" +
+        return "Seller{" +
                 "name='" + name + '\'' +
                 ", bankId='" + bankId + '\'' +
                 ", salary=" + salary +

@@ -18,6 +18,6 @@ public class PopMusician implements Musician{
 
     @Override
     public void greating() {
-        System.out.println("Greeting Pop");
+        System.out.println("Person Pop");
     }
 }

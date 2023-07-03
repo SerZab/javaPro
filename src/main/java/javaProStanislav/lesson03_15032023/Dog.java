@@ -4,7 +4,7 @@ abstract class Dog implements Util1, Util2 {
     String name;
     @Override
     public void voice(){
-        System.out.println("Dog voice");
+        System.out.println("Pet voice");
     }
     @Override
     public void sleep(){

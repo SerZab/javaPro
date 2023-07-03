@@ -42,7 +42,7 @@ class PayRollTest {
 
     @Test
     public void testSingleEmployee(){
-        employees.add(new Employee("Test Employee", "ID1", 1000));
+        employees.add(new Employee("Test Seller", "ID1", 1000));
         assertNumberOfPayments(1);
     }
 
